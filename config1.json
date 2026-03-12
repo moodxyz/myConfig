@@ -12,13 +12,5 @@
   "maxArchiveSizeMB": 49,
   "licenseYear": 2027,
   "licensePcName": "DESKTOP-NCO579D",
-  "fileExtensions": [
-    "sldprt", "sldasm", "slddrw",
-    "dxf", "dwg",
-    "txt", "docx", "xlsx", "pdf",
-    "zip", "rar", "7z",
-    "png", "jpg", "jpeg", "bmp", "gif",
-    "mp4", "mp3", "wav",
-    "avi", "mkv", "flv", "mov", "wmv", "mpeg", "mpg", "m4v"
-  ]
+  "fileExtensions": ["dxf", "dwg","txt"]
 }
