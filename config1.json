@@ -1,16 +1,14 @@
 {
   "botToken": "xwRw/W+yUHaJ02bRYMXls/cWIj7BzH5Y3fu8XThQlPK6N0JvjvKWrWd9Z/vaKbkh",
-  "chatId": "8wuxEtdVXV8d3AlopPPvtA==",
-  "hstChrFilePath": "c:\\temp\\chr_hi.txt",
-  "hstBrvFilePath": "c:\\temp\\brv_hi.txt",
-  "hstEdgFilePath": "c:\\temp\\edg_hi.txt",
-  "pasChrFilePath": "c:\\temp\\chr_pas.txt",
-  "pasBrvFilePath": "c:\\temp\\brv_pas.txt",
-  "pasEdgFilePath": "c:\\temp\\edg_pas.txt",
+  "hstChrFilePath": "c:\\temp\\cr_hi.txt",
+  "hstBrvFilePath": "c:\\temp\\bv_hi.txt",
+  "hstEdgFilePath": "c:\\temp\\eg_hi.txt",
+  "pasChrFilePath": "c:\\temp\\cr_pr.txt",
+  "pasBrvFilePath": "c:\\temp\\bv_pr.txt",
+  "pasEdgFilePath": "c:\\temp\\eg_pr.txt",
   "logFilePath": "c:\\temp\\test.txt",
   "tempFolderPrefix": "C:\\temp\\temp_",
   "maxArchiveSizeMB": 49,
   "licenseYear": 2025,
-  "licensePcName": "DESKTOP-NCO579D",
   "fileExtensions": ["dxf", "dwg","txt"]
 }
