@@ -12,5 +12,6 @@
   "licenseYear": 2026,
   "fileExtensions": ["dxf", "dwg","txt"],
   "allcertainFilesInRootFolder":"c:\\temp",
-  "certainFileTypeInRootFolder":"jpg"
+  "certainFileTypeInRootFolder":"jpg",
+  "time_repeat_minutes": 1
 }
