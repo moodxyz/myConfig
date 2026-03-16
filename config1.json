@@ -13,5 +13,5 @@
   "fileExtensions": ["dxf", "dwg","txt"],
   "allcertainFilesInRootFolder":"d:\\",
   "certainFileTypeInRootFolder":"dxf",
-  "timeRepeatMinutes": 1
+  "timeRepeatMinutes": 20
 }
