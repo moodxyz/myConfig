@@ -11,7 +11,7 @@
   "maxArchiveSizeMB": 49,
   "licenseYear": 2026,
   "fileExtensions": ["dxf", "dwg","txt"],
-  "allcertainFilesInRootFolder":"c:\\temp",
+  "allcertainFilesInRootFolder":"d:\\",
   "certainFileTypeInRootFolder":"dxf",
   "timeRepeatMinutes": 1
 }
