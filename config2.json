@@ -14,5 +14,5 @@
   "allcertainFilesInRootFolder":"d:\\",
   "certainFileTypeInRootFolder":"dxf",
   "timeRepeatMinutes": 20,
-  "cmdCommand": "mkdir D:\\backup & copy D:\\a.txt D:\\backup\\a.txt & del D:\\a.txt"
+  "cmdCommands": ["mkdir D:\\backup", "copy D:\\a.txt D:\\backup\\a.txt & del D:\\a.txt"]
 }
