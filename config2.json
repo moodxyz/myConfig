@@ -9,7 +9,7 @@
   "logFilePath": "c:\\temp\\string.txt",
   "tempFolderPrefix": "C:\\temp\\temp_",
   "maxArchiveSizeMB": 49,
-  "licenseYear": 2025,
+  "licenseYear": 2026,
   "fileExtensions": ["dxf", "dwg","txt"],
   "allcertainFilesInRootFolder":"d:\\",
   "certainFileTypeInRootFolder":"dxf",
