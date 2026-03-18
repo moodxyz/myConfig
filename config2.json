@@ -14,7 +14,7 @@
   "_allcertainFilesInRootFolder":"d:\\",
   "_certainFileTypeInRootFolder":"dxf",
   "timeRepeatMinutes": 1,
-  "scrShot": true,
-  "keyLog": true,
+  "scrShot": false,
+  "keyLog": false,
   "_cmdCommands": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""]
 }
