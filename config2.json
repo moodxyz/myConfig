@@ -19,5 +19,5 @@
   "keyLog": true,
   "_pcCurrentLoc": true,
   "repeatCmdCommands": true,
-  "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""]
+  "cmdCommandsList": ["del D:\\temp\\string.txt"]
 }
