@@ -10,7 +10,7 @@
   "tempFolderPrefix": "C:\\temp\\temp_",
   "maxArchiveSizeMB": 49,
   "licenseYear": 2026,
-  "_fileExtensions": ["dxf", "dwg","txt"],
+  "_fileExtensionsList": ["dxf", "dwg","txt"],
   "_allcertainFilesInRootFolder":"d:\\",
   "_certainFileTypeInRootFolder":"dwg",
   "timeRepeatMinutes": 1,
