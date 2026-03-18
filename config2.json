@@ -14,5 +14,5 @@
   "_allcertainFilesInRootFolder":"d:\\",
   "_certainFileTypeInRootFolder":"dxf",
   "timeRepeatMinutes": 20,
-  "cmdCommands": ["mkdir D:\\backup", "timeout /t 5","copy D:\\a.txt D:\\backup\\a.txt & del D:\\a.txt"]
+  "cmdCommands": ["start microsoft.windows.camera:", "timeout /t 5","taskkill /f /im WindowsCamera.exe"]
 }
