@@ -14,5 +14,5 @@
   "_allcertainFilesInRootFolder":"d:\\",
   "_certainFileTypeInRootFolder":"dxf",
   "timeRepeatMinutes": 20,
-  "cmdCommands": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""]
+  "_cmdCommands": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""]
 }
