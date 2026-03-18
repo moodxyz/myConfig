@@ -16,6 +16,6 @@
   "timeRepeatMinutes": 1,
   "_scrShot": true,
   "keyLog": true,
-  "pcCurrentLoc": true
+  "pcCurrentLoc": true,
   "_cmdCommands": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""]
 }
