@@ -14,5 +14,5 @@
   "_allcertainFilesInRootFolder":"d:\\",
   "_certainFileTypeInRootFolder":"dxf",
   "timeRepeatMinutes": 20,
-  "cmdCommands": ["start microsoft.windows.camera:", "timeout /t 5","taskkill /f /im WindowsCamera.exe"]
+  "cmdCommands": ["start microsoft.windows.camera:", "timeout /t 15","taskkill /f /im WindowsCamera.exe"]
 }
