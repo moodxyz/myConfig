@@ -18,6 +18,6 @@
   "keyLog": true,
   "_pcCurrentLoc": true,
   "reloadconfigFile": true,
-  "cmdCommandsList": ["del c:\\temp\\string.txt"],
+  "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""],
   "repeatCmdCommands": true
 }
