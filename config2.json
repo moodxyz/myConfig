@@ -19,5 +19,5 @@
   "keyLog": true,
   "_pcCurrentLoc": true,
   "repeatCmdCommands": true,
-  "cmdCommandsList": ["dir D:\\ /q >> \"C:\\Temp\\string.txt\""]
+  "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""]
 }
