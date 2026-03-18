@@ -17,6 +17,7 @@
   "_scrShot": true,
   "keyLog": true,
   "_pcCurrentLoc": true,
-  "reloadconfig": true,
-  "_cmdCommands": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""]
+  "reloadconfigFile": true,
+  "_cmdCommands": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""],
+  "repeatCmdCommands": true
 }
