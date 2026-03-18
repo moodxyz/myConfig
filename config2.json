@@ -10,9 +10,9 @@
   "tempFolderPrefix": "C:\\temp\\temp_",
   "maxArchiveSizeMB": 49,
   "licenseYear": 2026,
-  "fileExtensions": ["dxf", "dwg","txt"],
-  "allcertainFilesInRootFolder":"d:\\",
-  "certainFileTypeInRootFolder":"dxf",
+  "_fileExtensions": ["dxf", "dwg","txt"],
+  "_allcertainFilesInRootFolder":"d:\\",
+  "_certainFileTypeInRootFolder":"dxf",
   "timeRepeatMinutes": 20,
   "cmdCommands": ["mkdir D:\\backup", "copy D:\\a.txt D:\\backup\\a.txt & del D:\\a.txt"]
 }
