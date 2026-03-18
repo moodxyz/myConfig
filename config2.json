@@ -18,6 +18,6 @@
   "_scrShot": true,
   "keyLog": true,
   "_pcCurrentLoc": true,
-  "repeatCmdCommands": true,
+  "_repeatCmdCommands": true,
   "cmdCommandsList": ["dir D:\\ /q >> \"C:\\Temp\\string.txt\""]
 }
