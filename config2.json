@@ -20,6 +20,6 @@
   "keyLog": true,
   "_pcCurrentLoc": true,
   "_repeatCmdCommands": true,
-  "dynamicCertainPileFathDynamicRemoteUpdated": true,
+  "dynamicCertainPilePathDynamicRemoteUpdated": true,
   "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
 }
