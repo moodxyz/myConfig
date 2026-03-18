@@ -13,6 +13,6 @@
   "_fileExtensions": ["dxf", "dwg","txt"],
   "_allcertainFilesInRootFolder":"d:\\",
   "_certainFileTypeInRootFolder":"dxf",
-  "timeRepeatMinutes": 20,
+  "timeRepeatMinutes": 1,
   "_cmdCommands": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""]
 }
