@@ -16,10 +16,10 @@
   "certainFileTypeInRootFolder":"txt",
   "timeRepeatMinutes": 1,
   "reloadconfigFile": true,
-  "scrShot": true,
+  "_scrShot": true,
   "keyLog": true,
   "_pcCurrentLoc": true,
-  "repeatCmdCommands": true,
+  "_repeatCmdCommands": true,
   "dynamicCertainFileFathDynamicRemoteUpdated": true,
   "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
 }
