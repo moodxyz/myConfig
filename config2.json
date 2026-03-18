@@ -14,7 +14,7 @@
   "_allcertainFilesInRootFolder":"c:\\temp",
   "_certainFileTypeInRootFolder":"txt",
   "timeRepeatMinutes": 1,
-  "reloadconfigFile": true,
+  "reloadconfigFileIs": true,
   "_scrShot": true,
   "keyLog": true,
   "_pcCurrentLoc": true,
