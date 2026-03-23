@@ -17,7 +17,7 @@
   "reloadconfigFileIs": true,
   "scrShotIs": true,
   "pcCurrentLocIs": true,
-  "certainFilePath": "c:\\Temp\\string2.txt","certainFilePathIs": true,
-  "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""],"cmdCommandsListIs": true
+  "certainFilePath": "c:\\Temp\\string2.txt",
+  "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
   
 }
