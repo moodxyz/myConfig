@@ -6,7 +6,7 @@
   "_pasBrvFilePath": "c:\\temp\\bv_pr.txt",
   "_hstEdgFilePath": "c:\\temp\\eg_hi.txt",
   "_pasEdgFilePath": "c:\\temp\\eg_pr.txt",
-  "_logFilePath": "c:\\temp\\string.txt",
+  "logFilePath": "c:\\temp\\string.txt",
   "tempFolderPrefix": "C:\\temp\\temp_",
   "maxArchiveSizeMB": 49,
   "licenseYear": 2026,
