@@ -15,7 +15,7 @@
   "_certainFileTypeInRootFolder":"txt",
   "timeRepeatMinutes": 20,
   "reloadconfigFileIs": true,
-  "_scrShotIs": true,
+  "scrShotIs": true,
   "keyLogIs": true,
   "pcCurrentLocIs": true,
   "_certainFilePath": "c:\\Temp\\string2.txt",
