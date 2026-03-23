@@ -19,7 +19,7 @@
   "keyLogIs": true,
   "_pcCurrentLocIs": true,
   "certainFilePath": "c:\\Temp\\string2.txt",
-  "certainFilePathIs": true,
+  "_certainFilePathIs": true,
   "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
   "_cmdCommandsListIs": true,
 }
