@@ -15,7 +15,7 @@
   "_certainFileTypeInRootFolder":"txt",
   "timeRepeatMinutes": 2,
   "reloadconfigFileIs": true,
-  "_scrShotIs": true,
+  "scrShotIs": true,
   "pcCurrentLocIs": true,
   "createFilePath": "c:\\Temp\\string2.txt",
   "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
