@@ -20,6 +20,6 @@
   "pcCurrentLocIs": true,
   "_certainFilePath": "c:\\Temp\\string2.txt",
   "_certainFilePathIs": true,
-  "cmdCommandsList": ["systeminfo >> \"C:\\Temp\\string2.txt\""],
+  "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""],
   "cmdCommandsListIs": true
 }
