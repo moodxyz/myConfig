@@ -13,7 +13,7 @@
   "_fileExtensionsList": ["dxf", "dwg","txt"],
   "_allcertainFilesInRootFolder":"c:\\temp",
   "_certainFileTypeInRootFolder":"txt",
-  "timeRepeatMinutes": 1,
+  "timeRepeatMinutes": 20,
   "reloadconfigFileIs": true,
   "_scrShotIs": true,
   "keyLogIs": true,
