@@ -17,7 +17,7 @@
   "reloadconfigFileIs": true,
   "_scrShotIs": true,
   "_pcCurrentLocIs": true,
-  "_sendThisTextFilePath": "c:\\Temp\\string2.txt",
-  "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
+  "sendThisTextFilePath": "c:\\Temp\\string2.txt",
+  "_cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
   
 }
