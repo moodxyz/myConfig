@@ -18,6 +18,6 @@
   "_scrShotIs": true,
   "_pcCurrentLocIs": true,
   "_sendThisTextFilePath": "c:\\Temp\\string2.txt",
-  "_cmdCommandsList": ["shutdown /r /t 0"]
+  "cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
   
 }
