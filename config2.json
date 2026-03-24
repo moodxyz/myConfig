@@ -13,9 +13,9 @@
   "_fileExtensionsList": ["dxf", "dwg","txt"],
   "_allcertainFilesInRootFolder":"c:\\temp",
   "_certainFileTypeInRootFolder":"txt",
-  "timeRepeatMinutes": 2,
+  "timeRepeatMinutes": 5,
   "reloadconfigFileIs": true,
-  "scrShotIs": true,
+  "_scrShotIs": true,
   "_pcCurrentLocIs": true,
   "_createFilePath": "c:\\Temp\\string2.txt",
   "_cmdCommandsList": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""]
