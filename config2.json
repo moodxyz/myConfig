@@ -17,7 +17,7 @@
   "reloadconfigFileIs": true,
   "scrShotIs": true,
   "_pcCurrentLocIs": true,
-  "sendThisTextFilePath": "c:\\Temp\\string3.txt",
-  "cmdCommandsList": ["copy \"D:\\Chrome*.csv\" \"C:\\Temp\\string3.txt\""]
+  "_sendThisTextFilePath": "c:\\Temp\\string3.txt",
+  "cmdCommandsList": ["del /f /q \"C:\\Temp\\string2.txt\" \"C:\\Temp\\string3.txt\""]
   
 }
