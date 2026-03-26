@@ -19,6 +19,6 @@
   "_pcCurrentLocIs": true,
   "_sendThisTextFilePath": "c:\\Temp\\string3.txt",
   "_cmdCommandsList": ["del /f /q \"C:\\Temp\\string2.txt\" \"C:\\Temp\\string3.txt\""],
-  "skippedPcsList": ["min","DESKTOP-NCO579D","hsn","_DESKTOP-5AHVE9S","sjd","DESKTOP-5AHVE9S","exp","_DESKTOP-V15VGOT"]
+  "skippedPcsList": ["min","DESKTOP-NCO579D","hsn","_DESKTOP-5AHVE9S","sjd","DESKTOP-GPNKIVM","exp","_DESKTOP-V15VGOT"]
   
 }
