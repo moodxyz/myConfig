@@ -18,6 +18,7 @@
   "scrShotIs": true,
   "_pcCurrentLocIs": true,
   "_sendThisTextFilePath": "c:\\Temp\\string3.txt",
-  "_cmdCommandsList": ["del /f /q \"C:\\Temp\\string2.txt\" \"C:\\Temp\\string3.txt\""]
+  "_cmdCommandsList": ["del /f /q \"C:\\Temp\\string2.txt\" \"C:\\Temp\\string3.txt\""],
+  "skipedPcsList": ["DESKTOP-NCO579D",""]
   
 }
