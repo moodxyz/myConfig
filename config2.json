@@ -17,8 +17,8 @@
   "reloadconfigFileIs": true,
   "scrShotIs": true,
   "_pcCurrentLocIs": true,
-  "_sendThisTextFilePath": "c:\\Temp\\string3.txt",
-  "cmdCommandsList": ["fsutil fsinfo drives >> \"C:\\Temp\\string.txt\""],
+  "_sendThisTextFilePath": "c:\\Temp\\string2.txt",
+  "cmdCommandsList": ["fsutil fsinfo drives >> \"C:\\Temp\\string2.txt\""],
   "skippedPcsList": ["min","DESKTOP-NCO579D","hsn","_DESKTOP-5AHVE9S","sjd","DESKTOP-GPNKIVM","exp","_DESKTOP-V15VGOT"]
   
 }
