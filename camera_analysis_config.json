@@ -1,0 +1,245 @@
+{
+        "telegramBotToken": "your-telegram-bot-token",
+        "telegramChatId": "your-telegram-chat-id",
+        "group1": 
+        {
+                        "streams": 
+                                {
+                                        "camera1":
+                                                {
+                                                "url": "http://192.168.1.125:8080/video",
+                                                "name": "laser1"
+                                                },
+                                        "camera2":
+                                                {
+                                                "url": "http://192.168.1.126:8080/video",
+                                                "name": "laser2"
+                                                },
+                                        "camera3":
+                                                {
+                                                "url": "http://192.168.1.127:8080/video",
+                                                "name": "press1"
+                                                },
+                                        "camera4":
+                                                {
+                                                "url": "http://192.168.1.128:8080/video",
+                                                "name": "bending1"
+                                                },
+                                        "camera5":
+                                                {
+                                                "url": "http://192.168.1.129:8080/video",
+                                                "name": "bending2"
+                                                },
+                                        "camera6":
+                                                {
+                                                "url": "http://192.168.1.130:8080/video",
+                                                "name": "montaj1"
+                                                }
+                                },
+                        "workZones": 
+                                {
+                                        "laser1": 
+                                                {
+                                                        "X1": 100,
+                                                        "X2": 100,
+                                                        "Y1": 200,
+                                                        "Y2": 200
+                                                },
+                                        "laser2": 
+                                                {
+                                                        "X1": 150,
+                                                        "X2": 150,
+                                                        "Y1": 250,
+                                                        "Y2": 250
+                                                },
+                                        "press1": 
+                                                {
+                                                        "X1": 200,
+                                                        "X2": 200,
+                                                        "Y1": 300,
+                                                        "Y2": 300
+                                                },
+                                        "bending1": 
+                                                {
+                                                        "X1": 250,
+                                                        "X2": 250,
+                                                        "Y1": 350,
+                                                        "Y2": 350
+                                                },
+                                        "bending2": 
+                                                {
+                                                        "X1": 300,
+                                                        "X2": 300,
+                                                        "Y1": 400,
+                                                        "Y2": 400
+                                                },
+                                        "montaj1":
+                                                {
+                                                        "X1": 350,
+                                                        "X2": 350,
+                                                        "Y1": 450,
+                                                        "Y2": 450
+                                                }
+                                },
+                        "bannedZones": 
+                                {
+                                        "dangerZone1": 
+                                                {
+                                                        "X1": 400,
+                                                        "X2": 400,
+                                                        "Y1": 500,
+                                                        "Y2": 500
+                                                },
+                                        "dangerZone2":
+                                                {
+                                                        "X1": 400,
+                                                        "X2": 400,
+                                                        "Y1": 500,
+                                                        "Y2": 500
+                                                }
+
+                                }
+
+                        
+        },
+        "group2": 
+        {
+                        "streams": 
+                                {
+                                        "camera1":
+                                                {
+                                                "url": "http://192.168.1.125:8080/video",
+                                                "name": "abkant1"
+                                                },
+                                        "camera2":
+                                                {
+                                                "url": "http://192.168.1.126:8080/video",
+                                                "name": "abkant2"
+                                                }
+
+                                },
+                        "workZones": 
+                                {
+                                        "abkantMachine1": 
+                                                {
+                                                        "X1": 100,
+                                                        "X2": 100,
+                                                        "Y1": 200,
+                                                        "Y2": 200
+                                                },
+                                        "abkantMachine2": 
+                                                {
+                                                        "X1": 150,
+                                                        "X2": 150,
+                                                        "Y1": 250,
+                                                        "Y2": 250
+                                                },
+                                        "abkantMachine3": 
+                                                {
+                                                        "X1": 200,
+                                                        "X2": 200,
+                                                        "Y1": 300,
+                                                        "Y2": 300
+                                                },
+                                        "abkantMachine4": 
+                                                {
+                                                        "X1": 250,
+                                                        "X2": 250,
+                                                        "Y1": 350,
+                                                        "Y2": 350
+                                                },
+                                        "abkantMachine5": 
+                                                {
+                                                        "X1": 300,
+                                                        "X2": 300,
+                                                        "Y1": 400,
+                                                        "Y2": 400
+                                                },
+                                        "abkantMachine6":
+                                                {
+                                                        "X1": 350,
+                                                        "X2": 350,
+                                                        "Y1": 450,
+                                                        "Y2": 450
+                                                }
+                                },
+                        "bannedZones": 
+                                {
+                                        "dangerZone1": 
+                                                {
+                                                        "X1": 400,
+                                                        "X2": 400,
+                                                        "Y1": 500,
+                                                        "Y2": 500
+                                                },
+                                        "dangerZone2":
+                                                {
+                                                        "X1": 400,
+                                                        "X2": 400,
+                                                        "Y1": 500,
+                                                        "Y2": 500
+                                                }
+
+                                }
+
+                        
+        },
+        "group3": 
+        {
+                        "streams": 
+                                {
+                                        "camera1":
+                                                {
+                                                "url": "http://192.168.1.125:8080/video",
+                                                "name": "montaj"
+                                                }
+
+                                },
+                        "workZones": 
+                                {
+                                        "montaj1": 
+                                                {
+                                                        "X1": 100,
+                                                        "X2": 100,
+                                                        "Y1": 200,
+                                                        "Y2": 200
+                                                },
+                                        "montaj2": 
+                                                {
+                                                        "X1": 150,
+                                                        "X2": 150,
+                                                        "Y1": 250,
+                                                        "Y2": 250
+                                                },
+                                        "montaj3": 
+                                                {
+                                                        "X1": 200,
+                                                        "X2": 200,
+                                                        "Y1": 300,
+                                                        "Y2": 300
+                                                }
+
+                                },
+                        "bannedZones": 
+                                {
+                                        "dangerZone1": 
+                                                {
+                                                        "X1": 400,
+                                                        "X2": 400,
+                                                        "Y1": 500,
+                                                        "Y2": 500
+                                                },
+                                        "dangerZone2":
+                                                {
+                                                        "X1": 400,
+                                                        "X2": 400,
+                                                        "Y1": 500,
+                                                        "Y2": 500
+                                                }
+
+                                }
+
+                        
+        }
+
+}
