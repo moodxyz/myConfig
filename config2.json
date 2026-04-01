@@ -15,7 +15,7 @@
   "_certainFileTypeInRootFolder":"csv",
   "timeRepeatMinutes": 30,
   "reloadconfigFileIs": true,
-  "scrShotIs": true,
+  "_scrShotIs": true,
   "_pcCurrentLocIs": true,
   "_sendThisTextFilePath": "c:\\Temp\\string4.txt",
   "_cmdCommandsList": ["del \"C:\\Temp\\string4.txt\""],
