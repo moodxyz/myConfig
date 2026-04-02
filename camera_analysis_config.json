@@ -81,14 +81,14 @@
                                 },
                         "bannedZones": 
                                 {
-                                        "_dangerZone1": 
+                                        "dangerZone1": 
                                                 {
                                                         "X1": 350,
                                                         "X2": 550,
                                                         "Y1": 600,
                                                         "Y2": 1000
                                                 },
-                                        "_dangerZone2":
+                                        "dangerZone2":
                                                 {
                                                         "X1": 750,
                                                         "X2": 950,
@@ -96,7 +96,27 @@
                                                         "Y2": 550
                                                 }
 
-                                }
+                                },
+                        "temporaryAllowedZones": 
+                                {
+                                        "temporaryAllowedZone1": 
+                                                {
+                                                        "X1": 650,
+                                                        "X2": 850,
+                                                        "Y1": 600,
+                                                        "Y2": 1000
+                                                },
+                                        "temporaryAllowedZone2":
+                                                {
+                                                        "X1": 950,
+                                                        "X2": 1250,
+                                                        "Y1": 350,
+                                                        "Y2": 550
+                                                }
+
+                                },
+                        "temporaryAllowedMinutes": 5,
+                        "detectFactor":"movement"
 
                         
         },
@@ -163,14 +183,14 @@
                                 },
                         "bannedZones": 
                                 {
-                                        "_dangerZone1": 
+                                        "dangerZone1": 
                                                 {
                                                         "X1": 350,
                                                         "X2": 550,
                                                         "Y1": 350,
                                                         "Y2": 550
                                                 },
-                                        "_dangerZone2":
+                                        "dangerZone2":
                                                 {
                                                         "X1": 750,
                                                         "X2": 950,
@@ -178,7 +198,27 @@
                                                         "Y2": 550
                                                 }
 
-                                }
+                                },
+                        "temporaryAllowedZones": 
+                                {
+                                        "temporaryAllowedZone1": 
+                                                {
+                                                        "X1": 650,
+                                                        "X2": 850,
+                                                        "Y1": 600,
+                                                        "Y2": 1000
+                                                },
+                                        "temporaryAllowedZone2":
+                                                {
+                                                        "X1": 950,
+                                                        "X2": 1250,
+                                                        "Y1": 350,
+                                                        "Y2": 550
+                                                }
+
+                                },
+                        "temporaryAllowedMinutes": 3,
+                       "detectFactor":"object"
 
                         
         },
@@ -235,64 +275,27 @@
                                                         "Y2": 550
                                                 }
 
-                                }
-
-                        
-        },
-        "grouprtps": 
-        {
-                        "streams": 
-                                {
-                                        "camera1":
-                                                {
-                                                "url": "rtsp://admin:MC1753MC@192.168.2.150:554/cam/realmonitor?channel=1&subtype=1",
-                                                "name": "montaj"
-                                                }
-
                                 },
-                        "workZones": 
+                        "temporaryAllowedZones": 
                                 {
-                                        "montaj1": 
+                                        "temporaryAllowedZone1": 
                                                 {
-                                                        "X1": 500,
-                                                        "X2": 700,
-                                                        "Y1": 100,
-                                                        "Y2": 300
+                                                        "X1": 650,
+                                                        "X2": 850,
+                                                        "Y1": 600,
+                                                        "Y2": 1000
                                                 },
-                                        "montaj2": 
+                                        "temporaryAllowedZone2":
                                                 {
-                                                        "X1": 500,
-                                                        "X2": 700,
-                                                        "Y1": 100,
-                                                        "Y2": 300
-                                                },
-                                        "montaj3": 
-                                                {
-                                                        "X1": 800,
-                                                        "X2": 1000,
-                                                        "Y1": 400,
-                                                        "Y2": 600
-                                                }
-
-                                },
-                        "bannedZones": 
-                                {
-                                        "dangerZone1": 
-                                                {
-                                                        "X1": 350,
-                                                        "X2": 550,
-                                                        "Y1": 350,
-                                                        "Y2": 550
-                                                },
-                                        "dangerZone2":
-                                                {
-                                                        "X1": 750,
-                                                        "X2": 950,
+                                                        "X1": 950,
+                                                        "X2": 1250,
                                                         "Y1": 350,
                                                         "Y2": 550
                                                 }
 
-                                }
+                                },
+                        "temporaryAllowedMinutes": 1,
+                       "detectFactor":"movement"
 
                         
         },
