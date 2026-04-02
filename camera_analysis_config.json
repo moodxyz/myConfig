@@ -163,14 +163,14 @@
                                 },
                         "bannedZones": 
                                 {
-                                        "dangerZone1": 
+                                        "_dangerZone1": 
                                                 {
                                                         "X1": 350,
                                                         "X2": 550,
                                                         "Y1": 350,
                                                         "Y2": 550
                                                 },
-                                        "dangerZone2":
+                                        "_dangerZone2":
                                                 {
                                                         "X1": 750,
                                                         "X2": 950,
