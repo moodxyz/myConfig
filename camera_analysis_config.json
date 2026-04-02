@@ -218,7 +218,7 @@
 
                                 },
                         "temporaryAllowedMinutes": 3,
-                       "detectFactor":"certianObject"
+                        "detectFactor":"certianObject"
 
                         
         },
@@ -295,7 +295,7 @@
 
                                 },
                         "temporaryAllowedMinutes": 1,
-                       "detectFactor":"movement"
+                        "detectFactor":"movement"
 
                         
         },
