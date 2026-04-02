@@ -1,37 +1,37 @@
 {
-        "group1": 
+        "IdariBina1": 
         {
                         "streams": 
                                 {
-                                        "camera1":
+                                        "MEMDUH":
                                                 {
-                                                "url": "http://192.168.1.125:8080/video",
-                                                "name": "laser1"
+                                                "url": "rtsp://admin:MC1753MC@192.168.2.225:554/cam/realmonitor?channel=1&subtype=1",
+                                                "name": "MEMDUH1"
                                                 },
-                                        "camera2":
+                                        "MUHASEBE":
                                                 {
-                                                "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-                                                "name": "laser2"
+                                                "url": "rtsp://admin:MC1753MC@192.168.2.227:554/cam/realmonitor?channel=1&subtype=1",
+                                                "name": "MUHASEBE1"
                                                 },
-                                        "camera3":
+                                        "SATINALMA":
                                                 {
                                                 "url": "https://mtoczko.github.io/hls-test-streams/test-program-time/playlist.m3u8",
-                                                "name": "press1"
+                                                "name": "SATINALMA1"
                                                 },
-                                        "camera4":
+                                        "CIZIMCI":
                                                 {
-                                                "url": "H:\\fixed.MP4",
-                                                "name": "bending1"
+                                                "url": "rtsp://admin:MC1753MC@192.168.2.230:554/cam/realmonitor?channel=1&subtype=1",
+                                                "name": "CIZIMCI2"
                                                 },
-                                        "camera5":
+                                        "UretimOfisi":
                                                 {
-                                                "url": "http://192.168.1.129:8080/video",
-                                                "name": "bending2"
+                                                "url": "rtsp://admin:MC1753MC@192.168.2.226:554/cam/realmonitor?channel=1&subtype=1",
+                                                "name": "UretimOfisi1"
                                                 },
-                                        "camera6":
+                                        "SATIS1":
                                                 {
-                                                "url": "http://192.168.1.130:8080/video",
-                                                "name": "montaj1"
+                                                "url": "rtsp://admin:MC1753MC@192.168.2.228:554/cam/realmonitor?channel=1&subtype=1",
+                                                "name": "SATIS1--"
                                                 }
                                 },
                         "workZones": 
