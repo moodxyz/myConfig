@@ -296,8 +296,8 @@
 
                         
         },
-        "botToken": "7860347127:AAHGwjMEZR6K8LafHcNPq9_RlzFXDoLtGOQ",
-        "chatId": "-1003892163345",
+        "telegramBotToken": "7860347127:AAHGwjMEZR6K8LafHcNPq9_RlzFXDoLtGOQ",
+        "telegramChatId": "-1003892163345",
         "licenseYear": 2026,
         "authorizedPcsList": 
         [
