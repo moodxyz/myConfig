@@ -87,13 +87,6 @@
                                         },
                                 "bannedZones": 
                                         {
-                                                "dolap1": 
-                                                        {
-                                                                "X1": 250,
-                                                                "X2": 600,
-                                                                "Y1": 550,
-                                                                "Y2": 790
-                                                        },
                                                 "table_kose": 
                                                         {
                                                                 "X1": 850,
@@ -104,13 +97,6 @@
                                         },                                                        
                                 "temporaryAllowedZones": 
                                         {
-                                                "dolap2": 
-                                                        {
-                                                                "X1": 650,
-                                                                "X2": 770,
-                                                                "Y1": 530,
-                                                                "Y2": 950
-                                                        },
                                                 "window": 
                                                         {
                                                                 "X1": 850,
@@ -271,13 +257,6 @@
                                         },
                                 "bannedZones": 
                                         {
-                                                "ghtyuhvfgfbehind_table3": 
-                                                        {
-                                                                "X1": 250,
-                                                                "X2": 600,
-                                                                "Y1": 550,
-                                                                "Y2": 790
-                                                        },
                                                 "kyuuhhvfhbeside_table5": 
                                                         {
                                                                 "X1": 850,
@@ -321,31 +300,8 @@
                                                                 "X2": 300,
                                                                 "Y1": 30,
                                                                 "Y2": 100
-                                                        },
-                                                "fghtsecffdsvhace": 
-                                                        {
-                                                                "X1": 310,
-                                                                "X2": 400,
-                                                                "Y1": 5,
-                                                                "Y2": 70
                                                         }
-                                        },
-                                "bannedZones": 
-                                        {
-                                                "ghtyuhvfgfbhble3": 
-                                                        {
-                                                                "X1": 250,
-                                                                "X2": 600,
-                                                                "Y1": 550,
-                                                                "Y2": 790
-                                                        },
-                                                "kyuuhhvfhbeshble5": 
-                                                        {
-                                                                "X1": 850,
-                                                                "X2": 900,
-                                                                "Y1": 550,
-                                                                "Y2": 790
-                                                        }
+                                        }
                                         },                                                        
                                 "temporaryAllowedZones": 
                                         {
@@ -355,13 +311,6 @@
                                                                 "X2": 770,
                                                                 "Y1": 530,
                                                                 "Y2": 950
-                                                        },
-                                                "tghkubexsshc": 
-                                                        {
-                                                                "X1": 850,
-                                                                "X2": 900,
-                                                                "Y1": 550,
-                                                                "Y2": 790
                                                         }
                                         },
                                 "temporaryAllowedMinutes": 21,
@@ -398,32 +347,8 @@
                                                                 "X2": 600,
                                                                 "Y1": 550,
                                                                 "Y2": 790
-                                                        },
-                                                "kyuuhhble5": 
-                                                        {
-                                                                "X1": 850,
-                                                                "X2": 900,
-                                                                "Y1": 550,
-                                                                "Y2": 790
                                                         }
                                         },                                                        
-                                "temporaryAllowedZones": 
-                                        {
-                                                "rthle7": 
-                                                        {
-                                                                "X1": 650,
-                                                                "X2": 770,
-                                                                "Y1": 530,
-                                                                "Y2": 950
-                                                        },
-                                                "tghkusshc": 
-                                                        {
-                                                                "X1": 850,
-                                                                "X2": 900,
-                                                                "Y1": 550,
-                                                                "Y2": 790
-                                                        }
-                                        },
                                 "temporaryAllowedMinutes": 21,
                                 "detectFactor":"certainObject"
                                 }
