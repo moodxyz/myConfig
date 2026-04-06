@@ -289,7 +289,7 @@
 
                         "PUNCH2":
                                 {
-                                "studyThisStream": true,
+                                "studyThisStream": false,
                                 "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=27&subtype=1",
                                 "name": "PUNCH2",
                                 "workZones": 
