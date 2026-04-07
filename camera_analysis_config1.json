@@ -319,7 +319,7 @@
                         "MUHASEBE":
                                 {
                                 "studyThisStream": true,
-                                "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=27&subtype=1",
+                                "url": "rtsp://admin:MC1753MC@192.168.2.227:554/cam/realmonitor?channel=1&subtype=1",
                                 "name": "MUHASEBE1",
                                 "workZones": 
                                         {
