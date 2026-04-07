@@ -358,7 +358,14 @@
                 },
 
         "telegramBotToken": "8539068122:AAG9PFF439YK0acsITyRBY4TiBgEvSts-U8",
-        "telegramChatId": "-1003575110787",        
+        "telegramChatId": "-1003575110787",
+        
+        "idareChannelChatId": "-1003892163345",
+        "imalatChannelChatId": "-1003758886934",
+        "AzakTestChannelChatId": "-1003575110787",
+        "mine_chat_id": "-1003704961198",
+        "AzakCameraManager1BotToken": "8539068122:AAG9PFF439YK0acsITyRBY4TiBgEvSts-U8",
+        "minBotToken": "7860347127:AAHGwjMEZR6K8LafHcNPq9_RlzFXDoLtGOQ",     
         "licenseYear": 2026,
         "authorizedPcsList": 
         [
