@@ -289,7 +289,7 @@
 
                         "PUNCH2":
                                 {
-                                "studyThisStream": false,
+                                "studyThisStream": true,
                                 "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=27&subtype=1",
                                 "name": "PUNCH2",
                                 "workZones": 
@@ -320,7 +320,7 @@
                                 {
                                 "studyThisStream": true,
                                 "url": "rtsp://admin:MC1753MC@192.168.2.227:554/cam/realmonitor?channel=1&subtype=1",
-                                "name": "MUHASEBE1",
+                                "name": "MUHASEBE",
                                 "workZones": 
                                         {
                                                 "atyffdshace": 
