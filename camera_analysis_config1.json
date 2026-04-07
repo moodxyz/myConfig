@@ -10,19 +10,19 @@
                                 "name": "ABKANT1",
                                 "workZones": 
                                         {
-                                                "Abkant_Sefan": 
+                                                "Abkant_Sefan1": 
                                                         {
-                                                                "X1": 190,
-                                                                "X2": 300,
-                                                                "Y1": 30,
-                                                                "Y2": 100
+                                                                "X1": 100,
+                                                                "X2": 145,
+                                                                "Y1": 24,
+                                                                "Y2": 50
                                                         },
-                                                "Abkant_MVD": 
+                                                "Abkant_mvd1": 
                                                         {
-                                                                "X1": 310,
-                                                                "X2": 400,
-                                                                "Y1": 5,
-                                                                "Y2": 70
+                                                                "X1": 160,
+                                                                "X2": 200,
+                                                                "Y1": 20,
+                                                                "Y2": 40
                                                         }
                                         },
                                 "bannedZones": 
