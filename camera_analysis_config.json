@@ -160,14 +160,14 @@
                                 },
                         "workZones": 
                                 {
-                                        "Abkant_Sefan": 
+                                        "Abkant_Sefan1": 
                                                 {
                                                         "X1": 190,
                                                         "X2": 300,
                                                         "Y1": 30,
                                                         "Y2": 100
                                                 },
-                                        "Abkant_MVD": 
+                                        "Abkant_mvd1": 
                                                 {
                                                         "X1": 310,
                                                         "X2": 400,
@@ -188,7 +188,7 @@
                                                         "Y1": 200,
                                                         "Y2": 380
                                                 },
-                                        "MVD_Punch1": 
+                                        "punch_mvd1": 
                                                 {
                                                         "X1": 1760,
                                                         "X2": 1900,
