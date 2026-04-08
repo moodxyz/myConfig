@@ -116,7 +116,7 @@
 
                                                 "HURDA":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.155:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "HURDA",
 
