@@ -246,7 +246,7 @@
                                                 "Satis2":
                                                         {
                                                         "studyThisStream": true,
-                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=24&subtype=1",
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.237:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "Satis2",
                                                         "workZones": 
                                                                 {
@@ -457,7 +457,7 @@
 
                                                 "ToplantiOdasi":
                                                         {
-                                                        "studyThisStream": false,
+                                                        "studyThisStream": true,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.232:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "ToplantiOdasi",
                                                         "workZones": 
