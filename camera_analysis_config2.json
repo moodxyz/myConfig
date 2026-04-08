@@ -1,1 +1,343 @@
 
+{
+        
+        "streams": 
+                {
+
+                        "ABKANT1":
+                                {
+                                "studyThisStream": true,
+                                "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=24&subtype=1",
+                                "name": "ABKANT1",
+                                "workZones": 
+                                        {
+                                                "Abkant_Sefan1": 
+                                                        {
+                                                                "X1": 100,
+                                                                "X2": 145,
+                                                                "Y1": 24,
+                                                                "Y2": 50
+                                                        },
+                                                "Abkant_mvd1": 
+                                                        {
+                                                                "X1": 160,
+                                                                "X2": 200,
+                                                                "Y1": 20,
+                                                                "Y2": 40
+                                                        }
+                                        },
+                                "bannedZones": 
+                                        {
+                                                "YasakAbkantArkasi": 
+                                                        {
+                                                                "X1": 250,
+                                                                "X2": 600,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        },
+                                                "YasakKose": 
+                                                        {
+                                                                "X1": 850,
+                                                                "X2": 900,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        }
+                                        },                                                        
+                                "temporaryAllowedZones": 
+                                        {
+                                                "temporaryAllowedZone1": 
+                                                        {
+                                                                "X1": 650,
+                                                                "X2": 770,
+                                                                "Y1": 530,
+                                                                "Y2": 950
+                                                        },
+                                                "temporaryAllowedZone2": 
+                                                        {
+                                                                "X1": 850,
+                                                                "X2": 900,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        }
+                                        },
+                                "temporaryAllowedMinutes": 1,
+                                "detectFactor":"movement"
+                                },
+
+                        "MONTAJ2":
+                                {
+                                "studyThisStream": true,
+                                "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=38&subtype=1",
+                                "name": "MONTAJ2",
+                                "workZones": 
+                                        {
+                                                "eva_table": 
+                                                        {
+                                                                "X1": 190,
+                                                                "X2": 300,
+                                                                "Y1": 30,
+                                                                "Y2": 100
+                                                        },
+                                                "con_table": 
+                                                        {
+                                                                "X1": 310,
+                                                                "X2": 400,
+                                                                "Y1": 5,
+                                                                "Y2": 70
+                                                        }
+                                        },
+                                "bannedZones": 
+                                        {
+                                                "table_kose": 
+                                                        {
+                                                                "X1": 850,
+                                                                "X2": 900,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        }
+                                        },                                                        
+                                "temporaryAllowedZones": 
+                                        {
+                                                "window": 
+                                                        {
+                                                                "X1": 850,
+                                                                "X2": 900,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        }
+                                        },
+                                "temporaryAllowedMinutes": 3,
+                                "detectFactor":"certainObject"
+                                },
+
+
+                        "BakirKaynak1":
+                                {
+                                "studyThisStream": true,
+                                "url": "rtsp://admin:MC1753MC@192.168.2.235:554/cam/realmonitor?channel=1&subtype=1",
+                                "name": "BakirKaynak1",
+                                "workZones": 
+                                        {
+                                                "afirst_place": 
+                                                        {
+                                                                "X1": 190,
+                                                                "X2": 300,
+                                                                "Y1": 30,
+                                                                "Y2": 100
+                                                        },
+                                                "tsecond_place": 
+                                                        {
+                                                                "X1": 310,
+                                                                "X2": 400,
+                                                                "Y1": 5,
+                                                                "Y2": 70
+                                                        }
+                                        },
+                                "bannedZones": 
+                                        {
+                                                "hgfbehind_table3": 
+                                                        {
+                                                                "X1": 250,
+                                                                "X2": 600,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        },
+                                                "kuhhbeside_table5": 
+                                                        {
+                                                                "X1": 850,
+                                                                "X2": 900,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        }
+                                        },                                                        
+                                "temporaryAllowedZones": 
+                                        {
+                                                "dertable7": 
+                                                        {
+                                                                "X1": 650,
+                                                                "X2": 770,
+                                                                "Y1": 530,
+                                                                "Y2": 950
+                                                        },
+                                                "hkubeside_pc": 
+                                                        {
+                                                                "X1": 850,
+                                                                "X2": 900,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        }
+                                        },
+                                "temporaryAllowedMinutes": 8,
+                                "detectFactor":"movement"
+                                },
+                        
+
+                        "HURDA":
+                                {
+                                "studyThisStream": true,
+                                "url": "rtsp://admin:MC1753MC@192.168.2.155:554/cam/realmonitor?channel=1&subtype=1",
+                                "name": "HURDA",
+                                "workZones": 
+                                        {
+                                                "atyfirst_place": 
+                                                        {
+                                                                "X1": 190,
+                                                                "X2": 300,
+                                                                "Y1": 30,
+                                                                "Y2": 100
+                                                        },
+                                                "fghtsecond_place": 
+                                                        {
+                                                                "X1": 310,
+                                                                "X2": 400,
+                                                                "Y1": 5,
+                                                                "Y2": 70
+                                                        }
+                                        },
+                                "bannedZones": 
+                                        {
+                                                "ghtyuhgfbehind_table3": 
+                                                        {
+                                                                "X1": 250,
+                                                                "X2": 600,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        },
+                                                "kyuuhhbeside_table5": 
+                                                        {
+                                                                "X1": 850,
+                                                                "X2": 900,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        }
+                                        },                                                        
+                                "temporaryAllowedZones": 
+                                        {
+                                                "rtdertable7": 
+                                                        {
+                                                                "X1": 650,
+                                                                "X2": 770,
+                                                                "Y1": 530,
+                                                                "Y2": 950
+                                                        },
+                                                "tghkubeside_pc": 
+                                                        {
+                                                                "X1": 850,
+                                                                "X2": 900,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        }
+                                        },
+                                "temporaryAllowedMinutes": 15,
+                                "detectFactor":"movement"
+                                
+                                },
+
+
+                        "ABKANT2":
+                                {
+                                "studyThisStream": true,
+                                "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=25&subtype=1",
+                                "name": "ABKANT2",
+                                "workZones": 
+                                        {
+                                                "atyffirst_place": 
+                                                        {
+                                                                "X1": 190,
+                                                                "X2": 300,
+                                                                "Y1": 30,
+                                                                "Y2": 100
+                                                        },
+                                                "fghtsecffdsvond_place": 
+                                                        {
+                                                                "X1": 310,
+                                                                "X2": 400,
+                                                                "Y1": 5,
+                                                                "Y2": 70
+                                                        }
+                                        },
+                                "bannedZones": 
+                                        {
+                                                "kyuuhhvfhbeside_table5": 
+                                                        {
+                                                                "X1": 850,
+                                                                "X2": 900,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        }
+                                        },                                                        
+                                "temporaryAllowedZones": 
+                                        {
+                                                "rtderbfbtable7": 
+                                                        {
+                                                                "X1": 650,
+                                                                "X2": 770,
+                                                                "Y1": 530,
+                                                                "Y2": 950
+                                                        },
+                                                "tghkubexssside_pc": 
+                                                        {
+                                                                "X1": 850,
+                                                                "X2": 900,
+                                                                "Y1": 550,
+                                                                "Y2": 790
+                                                        }
+                                        },
+                                "temporaryAllowedMinutes": 6,
+                                "detectFactor":"movement"
+                                },
+                        
+
+                        "PUNCH2":
+                                {
+                                "studyThisStream": true,
+                                "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=27&subtype=1",
+                                "name": "PUNCH2",
+                                "workZones": 
+                                        {
+                                                "atyffhace": 
+                                                        {
+                                                                "X1": 190,
+                                                                "X2": 300,
+                                                                "Y1": 30,
+                                                                "Y2": 100
+                                                        }
+                                        },                                                     
+                                "temporaryAllowedZones": 
+                                        {
+                                                "rtderbfhle7": 
+                                                        {
+                                                                "X1": 650,
+                                                                "X2": 770,
+                                                                "Y1": 530,
+                                                                "Y2": 950
+                                                        }
+                                        },
+                                "temporaryAllowedMinutes": 21,
+                                "detectFactor":"certainObject"
+                                }
+
+                },
+
+        "telegramBotToken": "8539068122:AAG9PFF439YK0acsITyRBY4TiBgEvSts-U8",
+        "telegramChatId": "-1003575110787",
+        
+        "idareChannelChatId": "-1003892163345",
+        "imalatChannelChatId": "-1003758886934",
+        "AzakTestChannelChatId": "-1003575110787",
+        "mine_chat_id": "-1003704961198",
+        "AzakCameraManager1BotToken": "8539068122:AAG9PFF439YK0acsITyRBY4TiBgEvSts-U8",
+        "minBotToken": "7860347127:AAHGwjMEZR6K8LafHcNPq9_RlzFXDoLtGOQ",     
+        "licenseYear": 2026,
+        "authorizedPcsList": 
+        [
+                "min","DESKTOP-NCO579D",
+                "min_vm1","DESKTOP-MEJUS5J",
+                "husn","_DESKTOP-5AHVE9S",
+                "sjd","_DESKTOP-GPNKIVM",
+                "exp","_DESKTOP-V15VGOT",
+                "sandboxtest","7D2F459B-3EFE-4",
+                "new_pc","DESKTOP-BEVO3CC"
+        ]
+
+}
