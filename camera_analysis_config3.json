@@ -27,7 +27,7 @@
                                                                                         "Y2": 90
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 5,
+                                                        "idleThresholdMin": 1,
                                                         "detectFactor":"movement"
                                                         },
 
@@ -47,7 +47,7 @@
                                                                                 }
 
                                                                 },
-                                                        "idleThresholdMin": 5,
+                                                        "idleThresholdMin": 2,
                                                         "detectFactor":"certainObject"
                                                         },
 
@@ -66,7 +66,7 @@
                                                                                         "Y2": 105
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 5,
+                                                        "idleThresholdMin": 3,
                                                         "detectFactor":"certainObject"
                                                         },
 
@@ -87,7 +87,7 @@
                                                                                 }
 
                                                                 },
-                                                        "idleThresholdMin": 5,
+                                                        "idleThresholdMin": 4,
                                                         "detectFactor":"movement"
                                                         },
                                                 
@@ -109,7 +109,7 @@
                                                                                 }
 
                                                                 },
-                                                        "idleThresholdMin": 6,
+                                                        "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
                                                 
@@ -173,7 +173,7 @@
                                                                                         "Y2": 230
                                                                                 }
                                                                 },                                                     
-                                                        "idleThresholdMin": 5,
+                                                        "idleThresholdMin": 3,
                                                         "detectFactor":"certainObject"
                                                         },
 
@@ -192,7 +192,7 @@
                                                                                         "Y2": 500
                                                                                 }
                                                                 },                                                     
-                                                        "idleThresholdMin": 5,
+                                                        "idleThresholdMin": 6,
                                                         "detectFactor":"certainObject"
                                                         },
 
@@ -212,7 +212,7 @@
                                                                                         "Y2": 140
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 6,                                                     
+                                                        "idleThresholdMin": 3,                                                     
                                                         "detectFactor":"certainObject"
                                                         },
 
@@ -231,7 +231,7 @@
                                                                                         "Y2": 460
                                                                                 }
                                                                 },                                                     
-                                                        "idleThresholdMin": 7,
+                                                        "idleThresholdMin": 2,
                                                         "detectFactor":"certainObject"
                                                         }
 
@@ -273,7 +273,7 @@
                                                                                         "Y2": 90
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 20,
+                                                        "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
                                                 "MUHASEBE1":
@@ -298,7 +298,7 @@
                                                                                         "Y2": 230
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 22,
+                                                        "idleThresholdMin": 2,
                                                         "detectFactor":"certainObject"
                                                         }
                                         } 
