@@ -314,46 +314,7 @@
                                         },
                                 "temporaryAllowedMinutes": 21,
                                 "detectFactor":"certainObject"
-                                },
-
-                        "MUHASEBE":
-                                {
-                                "studyThisStream": true,
-                                "url": "rtsp://admin:MC1753MC@192.168.2.227:554/cam/realmonitor?channel=1&subtype=1",
-                                "name": "MUHASEBE",
-                                "workZones": 
-                                        {
-                                                "atyffdshace": 
-                                                        {
-                                                                "X1": 190,
-                                                                "X2": 300,
-                                                                "Y1": 30,
-                                                                "Y2": 100
-                                                        },
-                                                "fghsvhace": 
-                                                        {
-                                                                "X1": 310,
-                                                                "X2": 400,
-                                                                "Y1": 5,
-                                                                "Y2": 70
-                                                        }
-                                        },
-                                "bannedZones": 
-                                        {
-                                                "ghtfbhble3": 
-                                                        {
-                                                                "X1": 250,
-                                                                "X2": 600,
-                                                                "Y1": 550,
-                                                                "Y2": 790
-                                                        }
-                                        },                                                        
-                                "temporaryAllowedMinutes": 21,
-                                "detectFactor":"certainObject"
                                 }
-
-
-
 
                 },
 
