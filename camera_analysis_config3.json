@@ -1,4 +1,3 @@
-
 {
         "groupImalat": 
                         {
@@ -27,7 +26,7 @@
                                                                                         "Y2": 90
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 1,
+                                                        "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
 
@@ -47,8 +46,8 @@
                                                                                 }
 
                                                                 },
-                                                        "idleThresholdMin": 2,
-                                                        "detectFactor":"certainObject"
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
                                                         },
 
                                                 "MONTAJ1":
@@ -66,8 +65,8 @@
                                                                                         "Y2": 105
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 3,
-                                                        "detectFactor":"certainObject"
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
                                                         },
 
 
@@ -87,7 +86,7 @@
                                                                                 }
 
                                                                 },
-                                                        "idleThresholdMin": 4,
+                                                        "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
                                                 
@@ -109,7 +108,7 @@
                                                                                 }
 
                                                                 },
-                                                        "idleThresholdMin": 5,
+                                                        "idleThresholdMin": 6,
                                                         "detectFactor":"movement"
                                                         },
                                                 
@@ -173,8 +172,8 @@
                                                                                         "Y2": 230
                                                                                 }
                                                                 },                                                     
-                                                        "idleThresholdMin": 3,
-                                                        "detectFactor":"certainObject"
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
                                                         },
 
                                                 "PUNCH1":
@@ -192,8 +191,8 @@
                                                                                         "Y2": 500
                                                                                 }
                                                                 },                                                     
-                                                        "idleThresholdMin": 6,
-                                                        "detectFactor":"certainObject"
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
                                                         },
 
                                                         
@@ -212,8 +211,8 @@
                                                                                         "Y2": 140
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 3,                                                     
-                                                        "detectFactor":"certainObject"
+                                                        "idleThresholdMin": 6,                                                     
+                                                        "detectFactor":"movement"
                                                         },
 
                                                 "BakirBukum2":
@@ -231,8 +230,8 @@
                                                                                         "Y2": 460
                                                                                 }
                                                                 },                                                     
-                                                        "idleThresholdMin": 2,
-                                                        "detectFactor":"certainObject"
+                                                        "idleThresholdMin": 7,
+                                                        "detectFactor":"movement"
                                                         }
 
 
@@ -251,34 +250,42 @@
                                                         "name": "Satis2",
                                                         "workZones": 
                                                                 {
-                                                                        "CANER": 
+                                                                        "caner": 
                                                                                 {
-                                                                                        "X1": 210,
-                                                                                        "X2": 320,
-                                                                                        "Y1": 55,
-                                                                                        "Y2": 100
+                                                                                        "X1": 35,
+                                                                                        "X2": 120,
+                                                                                        "Y1": 230,
+                                                                                        "Y2": 290
                                                                                 },
-                                                                        "EDA": 
+                                                                        "eda": 
                                                                                 {
-                                                                                        "X1": 210,
-                                                                                        "X2": 320,
-                                                                                        "Y1": 55,
-                                                                                        "Y2": 100
+                                                                                        "X1": 95,
+                                                                                        "X2": 190,
+                                                                                        "Y1": 330,
+                                                                                        "Y2": 420
                                                                                 },
-                                                                        "EMRE": 
+                                                                        "tuba": 
                                                                                 {
-                                                                                        "X1": 350,
+                                                                                        "X1": 300,
+                                                                                        "X2": 360,
+                                                                                        "Y1": 80,
+                                                                                        "Y2": 130
+                                                                                },
+                                                                        "emre": 
+                                                                                {
+                                                                                        "X1": 400,
                                                                                         "X2": 450,
-                                                                                        "Y1": 50,
-                                                                                        "Y2": 90
+                                                                                        "Y1": 100,
+                                                                                        "Y2": 140
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 5,
+                                                        "idleThresholdMin": 1,
                                                         "detectFactor":"movement"
                                                         },
+
                                                 "MUHASEBE1":
                                                         {
-                                                        "studyThisStream": false,
+                                                        "studyThisStream": true,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=9&subtype=1",
                                                         "name": "MUHASEBE1",
                                                         "workZones": 
@@ -299,8 +306,217 @@
                                                                                 }
                                                                 },
                                                         "idleThresholdMin": 2,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "MEMDUH":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.225:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "MEMDUH",
+                                                        "workZones": 
+                                                                {
+                                                                        "memduh": 
+                                                                                {
+                                                                                        "X1": 200,
+                                                                                        "X2": 350,
+                                                                                        "Y1": 230,
+                                                                                        "Y2": 400
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 7,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "CIZIMCI2":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.230:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "CIZIMCI2",
+                                                        "workZones": 
+                                                                {
+                                                                        "cizimci2": 
+                                                                                {
+                                                                                        "X1": 120,
+                                                                                        "X2": 330,
+                                                                                        "Y1": 360,
+                                                                                        "Y2": 530
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 2,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "DiSTicaret2":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.231:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "DiSTicaret2",
+                                                        "workZones": 
+                                                                {
+                                                                        "DiSTicaret2": 
+                                                                                {
+                                                                                        "X1": 290,
+                                                                                        "X2": 510,
+                                                                                        "Y1": 430,
+                                                                                        "Y2": 570
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 2,
+                                                        "detectFactor":"certainObject"
+                                                        },
+
+                                                "OsmanBey":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.234:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "OsmanBey",
+                                                        "workZones": 
+                                                                {
+                                                                        "OsmanBey": 
+                                                                                {
+                                                                                        "X1": 290,
+                                                                                        "X2": 510,
+                                                                                        "Y1": 430,
+                                                                                        "Y2": 570
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"certainObject"
+                                                        },
+
+                                                "SEKRETER":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=8&subtype=1",
+                                                        "name": "SEKRETER",
+                                                        "workZones": 
+                                                                {
+                                                                        "sekreter": 
+                                                                                {
+                                                                                        "X1": 560,
+                                                                                        "X2": 630,
+                                                                                        "Y1": 320,
+                                                                                        "Y2": 480
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "SATINALMA":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.229:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "SATINALMA",
+                                                        "workZones": 
+                                                                {
+                                                                        "Huseyin": 
+                                                                                {
+                                                                                        "X1": 250,
+                                                                                        "X2": 230,
+                                                                                        "Y1": 400,
+                                                                                        "Y2": 560
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "UretimOfisi":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.226:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "UretimOfisi",
+                                                        "workZones": 
+                                                                {
+                                                                        "muhammed": 
+                                                                                {
+                                                                                        "X1": 420,
+                                                                                        "X2": 560,
+                                                                                        "Y1": 190,
+                                                                                        "Y2": 440
+                                                                                }
+                                                                },
+                                                        
+                                                        "temporaryAllowedZones": 
+                                                                {
+                                                                        "sajed_temp_allowed_zone": 
+                                                                                {
+                                                                                        "X1": 230,
+                                                                                        "X2": 400,
+                                                                                        "Y1": 500,
+                                                                                        "Y2": 570
+                                                                                }
+
+                                                                },
+                                                        "idleThresholdMin": 30,
+                                                        "temporaryAllowedMinutes": 20,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "ToplantiOdasi":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.232:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "ToplantiOdasi",
+                                                        "workZones": 
+                                                                {
+                                                                        "meeting": 
+                                                                                {
+                                                                                        "X1": 290,
+                                                                                        "X2": 500,
+                                                                                        "Y1": 190,
+                                                                                        "Y2": 420
+                                                                                }
+                                                                },
+                                                        "temporaryAllowedZones": 
+                                                                {
+                                                                        "resting": 
+                                                                                {
+                                                                                        "X1": 80,
+                                                                                        "X2": 210,
+                                                                                        "Y1": 250,
+                                                                                        "Y2": 370
+                                                                                }
+
+                                                                },
+                                                        "bannedZones": 
+                                                                {
+                                                                        "papers": 
+                                                                                {
+                                                                                        "X1": 640,
+                                                                                        "X2": 660,
+                                                                                        "Y1": 80,
+                                                                                        "Y2": 280
+                                                                                }
+                                                                },  
+
+                                                        "idleThresholdMin": 30,
+                                                        "temporaryAllowedMinutes": 20,
+                                                        "detectFactor":"certainObject"
+                                                        },
+
+                                                "GIRIS1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.238:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "GIRIS1",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "cati": 
+                                                                                {
+                                                                                        "X1": 370,
+                                                                                        "X2": 430,
+                                                                                        "Y1": 3,
+                                                                                        "Y2": 50
+                                                                                }
+                                                                },
                                                         "detectFactor":"certainObject"
                                                         }
+
+
+
                                         } 
                         },               
         "telegramBotToken": "8539068122:AAG9PFF439YK0acsITyRBY4TiBgEvSts-U8",
