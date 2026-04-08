@@ -211,7 +211,7 @@
                                                                                         "Y2": 140
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 10,                                                     
+                                                        "idleThresholdMin": 5,                                                     
                                                         "detectFactor":"movement"
                                                         },
 
@@ -230,7 +230,7 @@
                                                                                         "Y2": 460
                                                                                 }
                                                                 },                                                     
-                                                        "idleThresholdMin": 8,
+                                                        "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         }
 
@@ -279,7 +279,7 @@
                                                                                         "Y2": 140
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 1,
+                                                        "idleThresholdMin": 20,
                                                         "detectFactor":"movement"
                                                         },
 
@@ -363,7 +363,7 @@
                                                                                 }
                                                                 },
                                                         "idleThresholdMin": 20,
-                                                        "detectFactor":"certainObject"
+                                                        "detectFactor":"movement"
                                                         },
 
                                                 "OsmanBey":
@@ -382,7 +382,7 @@
                                                                                 }
                                                                 },
                                                         "idleThresholdMin": 20,
-                                                        "detectFactor":"certainObject"
+                                                        "detectFactor":"Cell Phone"
                                                         },
 
                                                 "SEKRETER":
@@ -494,7 +494,7 @@
 
                                                         "idleThresholdMin": 30,
                                                         "temporaryAllowedMinutes": 20,
-                                                        "detectFactor":"certainObject"
+                                                        "detectFactor":"Person"
                                                         },
 
                                                 "GIRIS1":
@@ -512,9 +512,81 @@
                                                                                         "Y2": 50
                                                                                 }
                                                                 },
-                                                        "detectFactor":"certainObject"
-                                                        }
+                                                        "detectFactor":"Person"
+                                                        },
 
+                                                "KAPI1_2":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.150:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "KAPI1_2",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "FirmaGiris1": 
+                                                                                {
+                                                                                        "X1": 320,
+                                                                                        "X2": 460,
+                                                                                        "Y1": 100,
+                                                                                        "Y2": 220
+                                                                                }
+                                                                },
+                                                        "detectFactor":"Car"
+                                                        },
+
+                                                "KAPI1_2_Truck":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.150:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "KAPI1_2",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "FirmaGiris1": 
+                                                                                {
+                                                                                        "X1": 320,
+                                                                                        "X2": 460,
+                                                                                        "Y1": 100,
+                                                                                        "Y2": 220
+                                                                                }
+                                                                },
+                                                        "detectFactor":"Truck"
+                                                        },
+
+                                                "KAPI2_1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.153:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "KAPI2_1",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "FirmaGiris1": 
+                                                                                {
+                                                                                        "X1": 280,
+                                                                                        "X2": 480,
+                                                                                        "Y1": 140,
+                                                                                        "Y2": 410
+                                                                                }
+                                                                },
+                                                        "detectFactor":"Car"
+                                                        },
+
+                                                        
+                                                "KAPI2_1_Truck":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.153:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "KAPI2_1_Truck",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "FirmaGiris1": 
+                                                                                {
+                                                                                        "X1": 280,
+                                                                                        "X2": 480,
+                                                                                        "Y1": 140,
+                                                                                        "Y2": 410
+                                                                                }
+                                                                },
+                                                        "detectFactor":"Truck"
+                                                        }
 
 
                                         } 
