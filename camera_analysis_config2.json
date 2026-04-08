@@ -283,7 +283,7 @@
                                                                 "Y2": 790
                                                         }
                                         },
-                                "temporaryAllowedMinutes": 6,
+                                "temporaryAllowedMinutes": 1,
                                 "detectFactor":"movement"
                                 },
                         
@@ -313,7 +313,7 @@
                                                                 "Y2": 950
                                                         }
                                         },
-                                "temporaryAllowedMinutes": 21,
+                                "temporaryAllowedMinutes": 5,
                                 "detectFactor":"certainObject"
                                 }
 
