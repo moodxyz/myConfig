@@ -108,7 +108,7 @@
                                                                                 }
 
                                                                 },
-                                                        "idleThresholdMin": 6,
+                                                        "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
                                                 
@@ -211,7 +211,7 @@
                                                                                         "Y2": 140
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 6,                                                     
+                                                        "idleThresholdMin": 10,                                                     
                                                         "detectFactor":"movement"
                                                         },
 
@@ -230,7 +230,7 @@
                                                                                         "Y2": 460
                                                                                 }
                                                                 },                                                     
-                                                        "idleThresholdMin": 7,
+                                                        "idleThresholdMin": 8,
                                                         "detectFactor":"movement"
                                                         }
 
@@ -279,7 +279,7 @@
                                                                                         "Y2": 140
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 1,
+                                                        "idleThresholdMin": 20,
                                                         "detectFactor":"movement"
                                                         },
 
@@ -305,7 +305,7 @@
                                                                                         "Y2": 230
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 2,
+                                                        "idleThresholdMin": 20,
                                                         "detectFactor":"movement"
                                                         },
 
@@ -324,7 +324,7 @@
                                                                                         "Y2": 400
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 7,
+                                                        "idleThresholdMin": 20,
                                                         "detectFactor":"movement"
                                                         },
 
@@ -343,13 +343,13 @@
                                                                                         "Y2": 530
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 2,
+                                                        "idleThresholdMin": 20,
                                                         "detectFactor":"movement"
                                                         },
 
                                                 "DiSTicaret2":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.231:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "DiSTicaret2",
                                                         "workZones": 
@@ -362,13 +362,13 @@
                                                                                         "Y2": 570
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 2,
+                                                        "idleThresholdMin": 20,
                                                         "detectFactor":"certainObject"
                                                         },
 
                                                 "OsmanBey":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.234:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "OsmanBey",
                                                         "workZones": 
@@ -381,7 +381,7 @@
                                                                                         "Y2": 570
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 5,
+                                                        "idleThresholdMin": 20,
                                                         "detectFactor":"certainObject"
                                                         },
 
@@ -400,7 +400,7 @@
                                                                                         "Y2": 480
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 5,
+                                                        "idleThresholdMin": 20,
                                                         "detectFactor":"movement"
                                                         },
 
@@ -419,7 +419,7 @@
                                                                                         "Y2": 560
                                                                                 }
                                                                 },
-                                                        "idleThresholdMin": 5,
+                                                        "idleThresholdMin": 20,
                                                         "detectFactor":"movement"
                                                         },
 
@@ -450,14 +450,14 @@
                                                                                 }
 
                                                                 },
-                                                        "idleThresholdMin": 30,
+                                                        "idleThresholdMin": 20,
                                                         "temporaryAllowedMinutes": 20,
                                                         "detectFactor":"movement"
                                                         },
 
                                                 "ToplantiOdasi":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.232:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "ToplantiOdasi",
                                                         "workZones": 
@@ -520,8 +520,8 @@
                                         } 
                         },               
         "telegramBotToken": "8539068122:AAG9PFF439YK0acsITyRBY4TiBgEvSts-U8",
-        "idariBinaTelegramChatId": "-1003575110787",
-        "imalatTelegramChatId": "-1003575110787",
+        "idariBinaTelegramChatId": "-1003892163345",
+        "imalatTelegramChatId": "-1003758886934",
 
 
         "idareChannelChatId": "-1003892163345",
