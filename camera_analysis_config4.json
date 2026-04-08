@@ -535,7 +535,7 @@
 
                                                 "KAPI1_2_Truck":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.150:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "KAPI1_2",
                                                         "bannedZones": 
@@ -553,7 +553,7 @@
 
                                                 "KAPI2_1":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.153:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "KAPI2_1",
                                                         "bannedZones": 
@@ -572,7 +572,7 @@
                                                         
                                                 "KAPI2_1_Truck":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.153:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "KAPI2_1_Truck",
                                                         "bannedZones": 
