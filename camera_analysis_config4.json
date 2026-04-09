@@ -259,6 +259,7 @@
                                                         "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
+
                                                 "DEZENFEKTE":
                                                         {
                                                         "studyThisStream": true,
@@ -296,9 +297,53 @@
                                                                 },
                                                         "temporaryAllowedMinutes": 5,
                                                         "detectFactor":"movement"
+                                                        },
+
+                                                "BOYAHANE":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=30&subtype=1",
+                                                        "name": "BOYAHANE",
+                                                        "workZones": 
+                                                                {
+                                                                        "DEZENFEKTE": 
+                                                                                {
+                                                                                        "X1": 80,
+                                                                                        "X2": 300,
+                                                                                        "Y1": 80,
+                                                                                        "Y2": 280
+                                                                                }
+                                                                },                                                     
+                                                        "idleThresholdMin": 30,
+                                                        "detectFactor":"Person"
+                                                        },
+
+                                                "IcMerdiven":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=32&subtype=1",
+                                                        "name": "IcMerdiven",
+                                                        "temporaryAllowedZones": 
+                                                                {
+                                                                        "geçiciİzinVerilenBölge1": 
+                                                                                {
+                                                                                        "X1": 70,
+                                                                                        "X2": 130,
+                                                                                        "Y1": 150,
+                                                                                        "Y2": 270
+                                                                                },
+                                                                        "tuvalet_bekleme": 
+                                                                                {
+                                                                                        "X1": 400,
+                                                                                        "X2": 490,
+                                                                                        "Y1": 130,
+                                                                                        "Y2": 280
+                                                                                }
+
+                                                                },
+                                                        "temporaryAllowedMinutes": 5,
+                                                        "detectFactor":"Person"
                                                         }
-
-
 
                                         }
                         },
@@ -653,7 +698,6 @@
                                                                 },
                                                         "detectFactor":"Car"
                                                         },
-
                                                         
                                                 "KAPI2_1_Truck":
                                                         {
@@ -671,7 +715,25 @@
                                                                                 }
                                                                 },
                                                         "detectFactor":"Truck"
-                                                        }
+                                                        },
+
+                                                "KOPEK1":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.154:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "KOPEK1",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "KOPEK_OUT": 
+                                                                                {
+                                                                                        "X1": 120,
+                                                                                        "X2": 700,
+                                                                                        "Y1": 180,
+                                                                                        "Y2": 550
+                                                                                }
+                                                                },
+                                                        "detectFactor":"Dog"
+                                                        }                                                        
 
 
                                         } 
