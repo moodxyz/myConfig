@@ -283,7 +283,6 @@
                                                         "studyThisStream": true,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=29&subtype=1",
                                                         "name": "BOYA1",
-
                                                         "temporaryAllowedZones": 
                                                                 {
                                                                         "geçiciİzinVerilenBölge1": 
