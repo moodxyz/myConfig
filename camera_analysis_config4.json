@@ -130,7 +130,7 @@
                                                                                         "Y2": 450
                                                                                 }
                                                                 },                                                        
-                                                        "detectFactor":"movement"
+                                                        "detectFactor":"Person"
                                                         
                                                         },
 
@@ -429,7 +429,7 @@
                                                                                 }
                                                                 },
                                                         "idleThresholdMin": 20,
-                                                        "detectFactor":"movement"
+                                                        "detectFactor":"Person"
                                                         },
 
                                                 "OsmanBey":
