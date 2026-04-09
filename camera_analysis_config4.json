@@ -143,7 +143,7 @@
 
                                                         "temporaryAllowedZones": 
                                                                 {
-                                                                        "temporaryAllowedZone1": 
+                                                                        "geçiciİzinVerilenBölge1": 
                                                                                 {
                                                                                         "X1": 10,
                                                                                         "X2": 200,
@@ -215,6 +215,32 @@
                                                         "detectFactor":"movement"
                                                         },
 
+                                                "BakirBukum1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=34&subtype=1",
+                                                        "name": "BakirBukum1",
+                                                        "workZones": 
+                                                                {
+                                                                        "deneme": 
+                                                                                {
+                                                                                        "X1": 430,
+                                                                                        "X2": 530,
+                                                                                        "Y1": 70,
+                                                                                        "Y2": 160
+                                                                                },
+                                                                        "kollektor_delme": 
+                                                                                {
+                                                                                        "X1": 500,
+                                                                                        "X2": 560,
+                                                                                        "Y1": 225,
+                                                                                        "Y2": 320
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 10,                                                     
+                                                        "detectFactor":"movement"
+                                                        },
+
                                                 "BakirBukum2":
                                                         {
                                                         "studyThisStream": true,
@@ -232,7 +258,47 @@
                                                                 },                                                     
                                                         "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
+                                                        },
+                                                "DEZENFEKTE":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=28&subtype=1",
+                                                        "name": "DEZENFEKTE",
+                                                        "workZones": 
+                                                                {
+                                                                        "DEZENFEKTE": 
+                                                                                {
+                                                                                        "X1": 80,
+                                                                                        "X2": 300,
+                                                                                        "Y1": 80,
+                                                                                        "Y2": 280
+                                                                                }
+                                                                },                                                     
+                                                        "idleThresholdMin": 10,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "BOYA1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=29&subtype=1",
+                                                        "name": "BOYA1",
+
+                                                        "temporaryAllowedZones": 
+                                                                {
+                                                                        "geçiciİzinVerilenBölge1": 
+                                                                                {
+                                                                                        "X1": 5,
+                                                                                        "X2": 160,
+                                                                                        "Y1": 320,
+                                                                                        "Y2": 420
+                                                                                }
+
+                                                                },
+                                                        "temporaryAllowedMinutes": 5,
+                                                        "detectFactor":"movement"
                                                         }
+
 
 
                                         }
@@ -425,7 +491,7 @@
 
                                                 "UretimOfisi":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.226:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "UretimOfisi",
                                                         "workZones": 
@@ -451,7 +517,27 @@
 
                                                                 },
                                                         "idleThresholdMin": 20,
-                                                        "temporaryAllowedMinutes": 20,
+                                                        "temporaryAllowedMinutes": 30,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "UretimOfisi_Sajed":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.226:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "sajed",
+                                                        "temporaryAllowedZones": 
+                                                                {
+                                                                        "sajed_temp_allowed_zone": 
+                                                                                {
+                                                                                        "X1": 230,
+                                                                                        "X2": 400,
+                                                                                        "Y1": 500,
+                                                                                        "Y2": 570
+                                                                                }
+
+                                                                },
+                                                        "temporaryAllowedMinutes": 30,
                                                         "detectFactor":"movement"
                                                         },
 
