@@ -742,6 +742,7 @@
 
                                         } 
                         },
+        "shutDownPc":"22:30",
         "workBreaks": [["08:00", "18:15"],["22:30", "08:00"]],
         "telegramBotToken": "8539068122:AAG9PFF439YK0acsITyRBY4TiBgEvSts-U8",
         "idariBinaTelegramChatId": "-1003575110787",
