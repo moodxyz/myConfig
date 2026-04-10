@@ -232,7 +232,7 @@
                                                 "BakirBukum1":
                                                         {
                                                         "studyThisStream": true,
-                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=34&subtype=1",
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.116:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "BakirBukum1",
                                                         "workZones": 
                                                                 {
