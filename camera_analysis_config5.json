@@ -151,7 +151,7 @@
 
                                                         "temporaryAllowedZones": 
                                                                 {
-                                                                        "geçiciİzinVerilenBölge1": 
+                                                                        "TemporaryPermittedArea1": 
                                                                                 {
                                                                                         "X1": 10,
                                                                                         "X2": 200,
@@ -302,7 +302,7 @@
                                                         "name": "BOYA1",
                                                         "temporaryAllowedZones": 
                                                                 {
-                                                                        "geçiciİzinVerilenBölge1": 
+                                                                        "TemporaryPermittedArea1": 
                                                                                 {
                                                                                         "X1": 5,
                                                                                         "X2": 160,
@@ -341,7 +341,7 @@
                                                         "name": "IcMerdiven",
                                                         "temporaryAllowedZones": 
                                                                 {
-                                                                        "geçiciİzinVerilenBölge1": 
+                                                                        "TemporaryPermittedArea1": 
                                                                                 {
                                                                                         "X1": 70,
                                                                                         "X2": 130,
