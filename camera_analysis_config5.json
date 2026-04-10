@@ -563,7 +563,7 @@
                                                                                         "Y1": 190,
                                                                                         "Y2": 440
                                                                                 }
-                                                                }
+                                                                },
                                                         "idleThresholdMin": 20,
                                                         "detectFactor":"movement"
                                                         },
