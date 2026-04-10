@@ -242,14 +242,8 @@
                                                                                         "X2": 530,
                                                                                         "Y1": 70,
                                                                                         "Y2": 160
-                                                                                },
-                                                                        "kollektor_delme": 
-                                                                                {
-                                                                                        "X1": 500,
-                                                                                        "X2": 560,
-                                                                                        "Y1": 225,
-                                                                                        "Y2": 320
                                                                                 }
+
                                                                 },
                                                         "idleThresholdMin": 10,                                                     
                                                         "detectFactor":"movement"
