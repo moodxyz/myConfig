@@ -296,7 +296,7 @@
                                                                                         "Y2": 100
                                                                                 }
                                                                 },                                                     
-                                                        "idleThresholdMin": 10,
+                                                        "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
 
@@ -335,13 +335,13 @@
                                                                                         "Y2": 280
                                                                                 }
                                                                 },                                                     
-                                                        "idleThresholdMin": 30,
+                                                        "idleThresholdMin": 10,
                                                         "detectFactor":"Person"
                                                         },
 
                                                 "IcMerdiven":
                                                         {
-                                                        "studyThisStream": false,
+                                                        "studyThisStream": true,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=32&subtype=1",
                                                         "name": "IcMerdiven",
                                                         "temporaryAllowedZones": 
@@ -362,7 +362,7 @@
                                                                                 }
 
                                                                 },
-                                                        "temporaryAllowedMinutes": 5,
+                                                        "temporaryAllowedMinutes": 3,
                                                         "detectFactor":"Person"
                                                         }
 
@@ -556,7 +556,7 @@
 
                                                 "UretimOfisi":
                                                         {
-                                                        "studyThisStream": false,
+                                                        "studyThisStream": true,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.226:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "UretimOfisi",
                                                         "workZones": 
