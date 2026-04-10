@@ -563,21 +563,8 @@
                                                                                         "Y1": 190,
                                                                                         "Y2": 440
                                                                                 }
-                                                                },
-                                                        
-                                                        "temporaryAllowedZones": 
-                                                                {
-                                                                        "sajed_temp_allowed_zone": 
-                                                                                {
-                                                                                        "X1": 230,
-                                                                                        "X2": 400,
-                                                                                        "Y1": 500,
-                                                                                        "Y2": 570
-                                                                                }
-
-                                                                },
+                                                                }
                                                         "idleThresholdMin": 20,
-                                                        "temporaryAllowedMinutes": 30,
                                                         "detectFactor":"movement"
                                                         },
 
@@ -585,7 +572,7 @@
                                                         {
                                                         "studyThisStream": true,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.226:554/cam/realmonitor?channel=1&subtype=1",
-                                                        "name": "sajed",
+                                                        "name": "UretimOfisi_Sajed",
                                                         "temporaryAllowedZones": 
                                                                 {
                                                                         "sajed_temp_allowed_zone": 
