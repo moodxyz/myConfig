@@ -1,1 +1,782 @@
 
+{
+        "groupImalat": 
+                        {
+                                "streams": 
+                                        {
+
+                                                "ABKANT1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=24&subtype=1",
+                                                        "name": "ABKANT1",
+                                                        "workZones": 
+                                                                {
+                                                                        "abkant_sefan1": 
+                                                                                {
+                                                                                        "X1": 210,
+                                                                                        "X2": 320,
+                                                                                        "Y1": 55,
+                                                                                        "Y2": 100
+                                                                                },
+                                                                        "abkant_mvd1": 
+                                                                                {
+                                                                                        "X1": 350,
+                                                                                        "X2": 450,
+                                                                                        "Y1": 50,
+                                                                                        "Y2": 90
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "MONTAJ2":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=38&subtype=1",
+                                                        "name": "MONTAJ2",
+                                                        "workZones": 
+                                                                {
+                                                                        "con_montaj1": 
+                                                                                {
+                                                                                        "X1": 330,
+                                                                                        "X2": 470,
+                                                                                        "Y1": 250,
+                                                                                        "Y2": 450
+                                                                                },
+                                                                        "ergul_masa1": 
+                                                                                {
+                                                                                        "X1": 90,
+                                                                                        "X2": 160,
+                                                                                        "Y1": 40,
+                                                                                        "Y2": 70
+                                                                                }
+
+                                                                },
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "MONTAJ1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=37&subtype=1",
+                                                        "name": "MONTAJ1",
+                                                        "workZones": 
+                                                                {
+                                                                        "eva_montaj1": 
+                                                                                {
+                                                                                        "X1": 270,
+                                                                                        "X2": 320,
+                                                                                        "Y1": 40,
+                                                                                        "Y2": 105
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+
+
+                                                "BakirKaynak1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.235:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "BakirKaynak1",
+                                                        "workZones": 
+                                                                {
+                                                                        "KollektoKaynak1": 
+                                                                                {
+                                                                                        "X1": 315,
+                                                                                        "X2": 470,
+                                                                                        "Y1": 80,
+                                                                                        "Y2": 260
+                                                                                }
+
+                                                                },
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+                                                
+
+
+                                                "BakirKaynak2":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=40&subtype=1",
+                                                        "name": "BakirKaynak2",
+                                                        "workZones": 
+                                                                {
+                                                                        "KollektoKaynak2": 
+                                                                                {
+                                                                                        "X1": 90,
+                                                                                        "X2": 325,
+                                                                                        "Y1": 115,
+                                                                                        "Y2": 250
+                                                                                }
+
+                                                                },
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+                                                
+
+
+                                                "HURDA":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.155:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "HURDA",
+
+                                                        "bannedZones": 
+                                                                {
+                                                                        "YasakHurdaZone": 
+                                                                                {
+                                                                                        "X1": 270,
+                                                                                        "X2": 615,
+                                                                                        "Y1": 90,
+                                                                                        "Y2": 450
+                                                                                }
+                                                                },                                                        
+                                                        "detectFactor":"Person"
+                                                        
+                                                        },
+
+
+                                                "ABKANT2":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=25&subtype=1",
+                                                        "name": "ABKANT2",
+
+                                                        "temporaryAllowedZones": 
+                                                                {
+                                                                        "geçiciİzinVerilenBölge1": 
+                                                                                {
+                                                                                        "X1": 10,
+                                                                                        "X2": 200,
+                                                                                        "Y1": 75,
+                                                                                        "Y2": 560
+                                                                                }
+
+                                                                },
+                                                        "temporaryAllowedMinutes": 1,
+                                                        "detectFactor":"movement"
+                                                        },
+                                                
+
+                                                "PUNCH2":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=27&subtype=1",
+                                                        "name": "PUNCH2",
+                                                        "workZones": 
+                                                                {
+                                                                        "punch_muratec1": 
+                                                                                {
+                                                                                        "X1": 500,
+                                                                                        "X2": 690,
+                                                                                        "Y1": 120,
+                                                                                        "Y2": 230
+                                                                                },
+                                                                        "punch_mvd1": 
+                                                                                {
+                                                                                        "X1": 250,
+                                                                                        "X2": 310,
+                                                                                        "Y1": 60,
+                                                                                        "Y2": 90
+                                                                                }
+                                                                },                                                     
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "PUNCH1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=26&subtype=1",
+                                                        "name": "PUNCH1",
+                                                        "workZones": 
+                                                                {
+                                                                        "punch_ofis1": 
+                                                                                {
+                                                                                        "X1": 35,
+                                                                                        "X2": 500,
+                                                                                        "Y1": 200,
+                                                                                        "Y2": 500
+                                                                                }
+                                                                },                                                     
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                        
+                                                "PresHatti_3_8":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=34&subtype=1",
+                                                        "name": "PresHatti_3_8",
+                                                        "workZones": 
+                                                                {
+                                                                        "btr_montaj1": 
+                                                                                {
+                                                                                        "X1": 160,
+                                                                                        "X2": 260,
+                                                                                        "Y1": 90,
+                                                                                        "Y2": 140
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 5,                                                     
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "BakirBukum1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.116:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "BakirBukum1",
+                                                        "workZones": 
+                                                                {
+                                                                        "deneme": 
+                                                                                {
+                                                                                        "X1": 430,
+                                                                                        "X2": 530,
+                                                                                        "Y1": 70,
+                                                                                        "Y2": 160
+                                                                                }
+
+                                                                },
+                                                        "idleThresholdMin": 10,                                                     
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "BakirBukum2":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=43&subtype=1",
+                                                        "name": "BakirBukum2",
+                                                        "workZones": 
+                                                                {
+                                                                        "BakirBukum2": 
+                                                                                {
+                                                                                        "X1": 180,
+                                                                                        "X2": 290,
+                                                                                        "Y1": 260,
+                                                                                        "Y2": 460
+                                                                                }
+                                                                },                                                     
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "DEZENFEKTE":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=28&subtype=1",
+                                                        "name": "DEZENFEKTE",
+                                                        "workZones": 
+                                                                {
+                                                                        "DEZENFEKTE": 
+                                                                                {
+                                                                                        "X1": 80,
+                                                                                        "X2": 300,
+                                                                                        "Y1": 80,
+                                                                                        "Y2": 280
+                                                                                },
+                                                                        "Lazer_Kaynak": 
+                                                                                {
+                                                                                        "X1": 260,
+                                                                                        "X2": 310,
+                                                                                        "Y1": 60,
+                                                                                        "Y2": 100
+                                                                                }
+                                                                },                                                     
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "BOYA1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=29&subtype=1",
+                                                        "name": "BOYA1",
+                                                        "temporaryAllowedZones": 
+                                                                {
+                                                                        "geçiciİzinVerilenBölge1": 
+                                                                                {
+                                                                                        "X1": 5,
+                                                                                        "X2": 160,
+                                                                                        "Y1": 320,
+                                                                                        "Y2": 420
+                                                                                }
+
+                                                                },
+                                                        "temporaryAllowedMinutes": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "BOYAHANE":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=30&subtype=1",
+                                                        "name": "BOYAHANE",
+                                                        "workZones": 
+                                                                {
+                                                                        "DEZENFEKTE": 
+                                                                                {
+                                                                                        "X1": 80,
+                                                                                        "X2": 300,
+                                                                                        "Y1": 80,
+                                                                                        "Y2": 280
+                                                                                }
+                                                                },                                                     
+                                                        "idleThresholdMin": 10,
+                                                        "detectFactor":"Person"
+                                                        },
+
+                                                "IcMerdiven":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=32&subtype=1",
+                                                        "name": "IcMerdiven",
+                                                        "temporaryAllowedZones": 
+                                                                {
+                                                                        "geçiciİzinVerilenBölge1": 
+                                                                                {
+                                                                                        "X1": 70,
+                                                                                        "X2": 130,
+                                                                                        "Y1": 150,
+                                                                                        "Y2": 270
+                                                                                },
+                                                                        "tuvalet_bekleme": 
+                                                                                {
+                                                                                        "X1": 400,
+                                                                                        "X2": 490,
+                                                                                        "Y1": 130,
+                                                                                        "Y2": 280
+                                                                                }
+
+                                                                },
+                                                        "temporaryAllowedMinutes": 3,
+                                                        "detectFactor":"Person"
+                                                        }
+
+                                        }
+                        },
+
+        "groupIdariBina": 
+                        {
+                                "streams": 
+                                        {
+
+                                                "Satis2":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.237:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "Satis2",
+                                                        "workZones": 
+                                                                {
+                                                                        "caner": 
+                                                                                {
+                                                                                        "X1": 35,
+                                                                                        "X2": 120,
+                                                                                        "Y1": 230,
+                                                                                        "Y2": 290
+                                                                                },
+                                                                        "eda": 
+                                                                                {
+                                                                                        "X1": 95,
+                                                                                        "X2": 190,
+                                                                                        "Y1": 330,
+                                                                                        "Y2": 420
+                                                                                },
+                                                                        "tuba": 
+                                                                                {
+                                                                                        "X1": 300,
+                                                                                        "X2": 360,
+                                                                                        "Y1": 80,
+                                                                                        "Y2": 130
+                                                                                },
+                                                                        "emre": 
+                                                                                {
+                                                                                        "X1": 400,
+                                                                                        "X2": 450,
+                                                                                        "Y1": 100,
+                                                                                        "Y2": 140
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 20,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "MUHASEBE1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=9&subtype=1",
+                                                        "name": "MUHASEBE1",
+                                                        "workZones": 
+                                                                {
+                                                                        "ozlem": 
+                                                                                {
+                                                                                        "X1": 380,
+                                                                                        "X2": 510,
+                                                                                        "Y1": 100,
+                                                                                        "Y2": 200
+                                                                                },
+                                                                        "nur": 
+                                                                                {
+                                                                                        "X1": 650,
+                                                                                        "X2": 700,
+                                                                                        "Y1": 140,
+                                                                                        "Y2": 230
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 20,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "MEMDUH":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.225:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "MEMDUH",
+                                                        "workZones": 
+                                                                {
+                                                                        "memduh": 
+                                                                                {
+                                                                                        "X1": 200,
+                                                                                        "X2": 350,
+                                                                                        "Y1": 230,
+                                                                                        "Y2": 400
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 20,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "CIZIMCI2":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.230:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "CIZIMCI2",
+                                                        "workZones": 
+                                                                {
+                                                                        "cizimci2": 
+                                                                                {
+                                                                                        "X1": 120,
+                                                                                        "X2": 330,
+                                                                                        "Y1": 360,
+                                                                                        "Y2": 530
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 20,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "DiSTicaret2":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.231:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "DiSTicaret2",
+                                                        "workZones": 
+                                                                {
+                                                                        "DiSTicaret2": 
+                                                                                {
+                                                                                        "X1": 290,
+                                                                                        "X2": 510,
+                                                                                        "Y1": 430,
+                                                                                        "Y2": 570
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 20,
+                                                        "detectFactor":"Person"
+                                                        },
+
+                                                "OsmanBey":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.234:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "OsmanBey",
+                                                        "workZones": 
+                                                                {
+                                                                        "OsmanBey": 
+                                                                                {
+                                                                                        "X1": 290,
+                                                                                        "X2": 510,
+                                                                                        "Y1": 430,
+                                                                                        "Y2": 570
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 20,
+                                                        "detectFactor":"Cell Phone"
+                                                        },
+
+                                                "SEKRETER":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=8&subtype=1",
+                                                        "name": "SEKRETER",
+                                                        "workZones": 
+                                                                {
+                                                                        "sekreter": 
+                                                                                {
+                                                                                        "X1": 560,
+                                                                                        "X2": 630,
+                                                                                        "Y1": 320,
+                                                                                        "Y2": 480
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 20,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "SATINALMA":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.229:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "SATINALMA",
+                                                        "workZones": 
+                                                                {
+                                                                        "Huseyin": 
+                                                                                {
+                                                                                        "X1": 230,
+                                                                                        "X2": 480,
+                                                                                        "Y1": 400,
+                                                                                        "Y2": 560
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 20,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "UretimOfisi":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.226:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "UretimOfisi",
+                                                        "workZones": 
+                                                                {
+                                                                        "muhammed": 
+                                                                                {
+                                                                                        "X1": 420,
+                                                                                        "X2": 560,
+                                                                                        "Y1": 190,
+                                                                                        "Y2": 440
+                                                                                }
+                                                                },
+                                                        
+                                                        "temporaryAllowedZones": 
+                                                                {
+                                                                        "sajed_temp_allowed_zone": 
+                                                                                {
+                                                                                        "X1": 230,
+                                                                                        "X2": 400,
+                                                                                        "Y1": 500,
+                                                                                        "Y2": 570
+                                                                                }
+
+                                                                },
+                                                        "idleThresholdMin": 20,
+                                                        "temporaryAllowedMinutes": 30,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "UretimOfisi_Sajed":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.226:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "sajed",
+                                                        "temporaryAllowedZones": 
+                                                                {
+                                                                        "sajed_temp_allowed_zone": 
+                                                                                {
+                                                                                        "X1": 230,
+                                                                                        "X2": 400,
+                                                                                        "Y1": 500,
+                                                                                        "Y2": 570
+                                                                                }
+
+                                                                },
+                                                        "temporaryAllowedMinutes": 30,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "ToplantiOdasi":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.232:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "ToplantiOdasi",
+                                                        "workZones": 
+                                                                {
+                                                                        "meeting": 
+                                                                                {
+                                                                                        "X1": 290,
+                                                                                        "X2": 500,
+                                                                                        "Y1": 190,
+                                                                                        "Y2": 420
+                                                                                }
+                                                                },
+                                                        "temporaryAllowedZones": 
+                                                                {
+                                                                        "resting": 
+                                                                                {
+                                                                                        "X1": 80,
+                                                                                        "X2": 210,
+                                                                                        "Y1": 250,
+                                                                                        "Y2": 370
+                                                                                }
+
+                                                                },
+                                                        "bannedZones": 
+                                                                {
+                                                                        "papers": 
+                                                                                {
+                                                                                        "X1": 640,
+                                                                                        "X2": 660,
+                                                                                        "Y1": 80,
+                                                                                        "Y2": 280
+                                                                                }
+                                                                },  
+
+                                                        "idleThresholdMin": 30,
+                                                        "temporaryAllowedMinutes": 20,
+                                                        "detectFactor":"Person"
+                                                        },
+
+                                                "GIRIS1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.238:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "GIRIS1",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "cati": 
+                                                                                {
+                                                                                        "X1": 370,
+                                                                                        "X2": 430,
+                                                                                        "Y1": 3,
+                                                                                        "Y2": 50
+                                                                                }
+                                                                },
+                                                        "detectFactor":"Person"
+                                                        },
+
+                                                "KAPI1_2":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.150:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "KAPI1_2",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "FirmaGiris1": 
+                                                                                {
+                                                                                        "X1": 320,
+                                                                                        "X2": 460,
+                                                                                        "Y1": 100,
+                                                                                        "Y2": 220
+                                                                                }
+                                                                },
+                                                        "detectFactor":"Car"
+                                                        },
+
+                                                "KAPI1_2_Truck":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.150:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "KAPI1_2",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "FirmaGiris1": 
+                                                                                {
+                                                                                        "X1": 320,
+                                                                                        "X2": 460,
+                                                                                        "Y1": 100,
+                                                                                        "Y2": 220
+                                                                                }
+                                                                },
+                                                        "detectFactor":"Truck"
+                                                        },
+
+                                                "KAPI2_1":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.153:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "KAPI2_1",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "FirmaGiris1": 
+                                                                                {
+                                                                                        "X1": 280,
+                                                                                        "X2": 480,
+                                                                                        "Y1": 140,
+                                                                                        "Y2": 410
+                                                                                }
+                                                                },
+                                                        "detectFactor":"Car"
+                                                        },
+                                                        
+                                                "KAPI2_1_Truck":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.153:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "KAPI2_1_Truck",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "FirmaGiris1": 
+                                                                                {
+                                                                                        "X1": 280,
+                                                                                        "X2": 480,
+                                                                                        "Y1": 140,
+                                                                                        "Y2": 410
+                                                                                }
+                                                                },
+                                                        "detectFactor":"Truck"
+                                                        },
+
+                                                "KOPEK1":
+                                                        {
+                                                        "studyThisStream": false,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.154:554/cam/realmonitor?channel=1&subtype=1",
+                                                        "name": "KOPEK1",
+                                                        "bannedZones": 
+                                                                {
+                                                                        "KOPEK_OUT": 
+                                                                                {
+                                                                                        "X1": 120,
+                                                                                        "X2": 700,
+                                                                                        "Y1": 180,
+                                                                                        "Y2": 550
+                                                                                }
+                                                                },
+                                                        "detectFactor":"Dog"
+                                                        }                                                        
+
+
+                                        } 
+                        },
+        "workBreaks": [("09:30", "09:45"),("11:59", "13:30"),("15:00", "15:15"),("18:15", "8:00")],
+        "telegramBotToken": "8539068122:AAG9PFF439YK0acsITyRBY4TiBgEvSts-U8",
+        "idariBinaTelegramChatId": "-1003892163345",
+        "imalatTelegramChatId": "-1003758886934",
+
+
+        "idareChannelChatId": "-1003892163345",
+        "imalatChannelChatId": "-1003758886934",
+        "AzakTestChannelChatId": "-1003575110787",
+        "mine_chat_id": "-1003704961198",
+        "AzakCameraManager1BotToken": "8539068122:AAG9PFF439YK0acsITyRBY4TiBgEvSts-U8",
+        "minBotToken": "7860347127:AAHGwjMEZR6K8LafHcNPq9_RlzFXDoLtGOQ", 
+
+        "licenseYear": 2026,
+        "authorizedPcsList": 
+        [
+                "min","DESKTOP-NCO579D",
+                "min_vm1","DESKTOP-MEJUS5J",
+                "husn","_DESKTOP-5AHVE9S",
+                "sjd","_DESKTOP-GPNKIVM",
+                "exp","_DESKTOP-V15VGOT",
+                "sandboxtest","7D2F459B-3EFE-4",
+                "new_pc","DESKTOP-BEVO3CC"
+        ]
+
+}
