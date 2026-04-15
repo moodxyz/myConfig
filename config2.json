@@ -24,7 +24,7 @@
   "__cmdCommandsList": ["taskkill /F /T /FI \"IMAGENAME eq cameraAnalysisEXE*\""],
   "___cmdCommands": ["systeminfo >> \"C:\\Temp\\string.txt\""],
   "____cmdCommandsList": ["wmic logicaldisk get deviceid, volumename >> \"C:\\Temp\\string2.txt\""],
-  "cmdCommands": ["dir E:\\ /s /b >> \"C:\\Temp\\string2.txt\""],
+  "_____cmdCommands": ["dir E:\\ /s /b >> \"C:\\Temp\\string2.txt\""],
   "______cmdCommands": ["copy \"D:\\Chrome*.csv\" \"C:\\Temp\\string3.txt\""],
   "_______cmdCommands": ["del /f /q \"C:\\Temp\\string2.txt\" \"C:\\Temp\\string3.txt\""],
   "________cmdCommands": ["del /f /q \"C:\\Program Files\\Common Files\\cameraAnalysisEXE*.exe\""],
