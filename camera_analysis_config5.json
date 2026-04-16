@@ -253,7 +253,7 @@
                                                                                 }
 
                                                                 },
-                                                        "idleThresholdMin": 10,                                                     
+                                                        "idleThresholdMin": 5,                                                     
                                                         "detectFactor":"movement"
                                                         },
 
