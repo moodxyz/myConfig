@@ -181,14 +181,8 @@
                                                                                         "X2": 690,
                                                                                         "Y1": 120,
                                                                                         "Y2": 230
-                                                                                },
-                                                                        "punch_mvd1": 
-                                                                                {
-                                                                                        "X1": 250,
-                                                                                        "X2": 310,
-                                                                                        "Y1": 60,
-                                                                                        "Y2": 90
                                                                                 }
+
                                                                 },                                                     
                                                         "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
