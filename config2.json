@@ -28,7 +28,7 @@
   "______cmdCommandsList": ["copy \"D:\\Chrome*.csv\" \"C:\\Temp\\string3.txt\""],
   "________cmdCommandsList": ["del /f /q \"C:\\Temp\\string2.txt\" \"C:\\Temp\\string3.txt\""],
   "________cmdCommandsList": ["del /f /q \"C:\\Program Files\\Common Files\\cameraAnalysisEXE*.exe\""],
-  "cmdCommandsList": ["robocopy \"\\\\finansdata\\Paylaşım\\AZAK EVRAKLAR\\10- PROGRAMLAR\\WINDOWS 7\" \"C:\\Temp\" \"WindowsNet2.exe\""],
+  "cmdCommandsList": ["robocopy \"\\\\finansdata\\Paylaşım\\AZAK EVRAKLAR\\10- PROGRAMLAR\\WINDOWS 7\" \"C:\\Temp\" \"WindowsNet4.exe\""],
   "________copy exe retry ________cmdCommandsList": ["robocopy \"\\\\finansdata\\Paylaşım\\AZAK EVRAKLAR\\10- PROGRAMLAR\\WINDOWS 7\" \"C:\\Temp\" \"WindowsNet1.exe\""],
   "_______copy exe retry_________cmdCommandsList": ["robocopy \"\\\\finansdata\\Paylaşım\\AZAK EVRAKLAR\\10- PROGRAMLAR\\WINDOWS 7\" \"C:\\Temp\" \"WinSrv1.exe\""],
   "____run exe_____cmdCommandsList": ["C:\\Temp\\WindowsNet1.exe"],
