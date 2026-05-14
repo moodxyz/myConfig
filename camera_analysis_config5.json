@@ -375,7 +375,7 @@
 
                                                 "Satis2":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.237:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "Satis2",
                                                         "workZones": 
@@ -415,7 +415,7 @@
 
                                                 "MUHASEBE1":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=9&subtype=1",
                                                         "name": "MUHASEBE1",
                                                         "workZones": 
@@ -517,7 +517,7 @@
 
                                                 "SEKRETER":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=8&subtype=1",
                                                         "name": "SEKRETER",
                                                         "workZones": 
@@ -536,7 +536,7 @@
 
                                                 "SATINALMA":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.229:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "SATINALMA",
                                                         "workZones": 
@@ -636,7 +636,7 @@
 
                                                 "GIRIS1":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.238:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "GIRIS1",
                                                         "bannedZones": 
