@@ -441,7 +441,7 @@
 
                                                 "MEMDUH":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.225:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "MEMDUH",
                                                         "workZones": 
@@ -460,7 +460,7 @@
 
                                                 "CIZIMCI2":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.230:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "CIZIMCI2",
                                                         "workZones": 
@@ -555,7 +555,7 @@
 
                                                 "UretimOfisi":
                                                         {
-                                                        "studyThisStream": true,
+                                                        "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.226:554/cam/realmonitor?channel=1&subtype=1",
                                                         "name": "UretimOfisi",
                                                         "workZones": 
