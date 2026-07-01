@@ -17,7 +17,7 @@
   "reloadconfigFileIs": true,
   "scrShotIs": true,
   "_pcCurrentLocIs": true,
-  "sendThisTextFilePath": "c:\\Temp\\string3.txt",
+  "_sendThisTextFilePath": "c:\\Temp\\string3.txt",
   "_cmdCommandsList": ["@echo off","del \"C:\\Temp\\string4.txt\""],
   "_shutdown_cmdCommandsList": ["@echo off","shutdown /s /t 0"],
   "_restart_cmdCommandsList": ["@echo off","shutdown /r /t 0"],
