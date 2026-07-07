@@ -37,6 +37,6 @@
   "___________kill exe ______cmdCommandsList": ["@echo off","C:\\Temp\\WindowsNet4.exe"],
   "___________kill any exe filename starts with______cmdCommandsList": ["@echo off","C:\\Temp\\WindowsNet*.exe"],
   "___________kill any exe filename starts with________cmdCommandsList": ["@echo off","C:\\Temp\\WinSrv*.exe"],
-  "skippedPcsList": ["min","DESKTOP-NCO579D","Sac","DESKTOP-BEVO3CC","husn","_DESKTOP-5AHVE9S","sjd","DESKTOP-GPNKIVM","export1","_DESKTOP-V15VGOT","osm","_DESKTOP-5M9D8EK","mem_hasan_laptop","_DESKTOP-6OBRF87","export3","_DESKTOP-1QU75DF"]
+  "skippedPcsList": ["min","DESKTOP-NCO579D","Sac","DESKTOP-BEVO3CC","husn","DESKTOP-5AHVE9S","sjd","DESKTOP-GPNKIVM","export1","DESKTOP-V15VGOT","osm","DESKTOP-5M9D8EK","mem_hasan_laptop","_DESKTOP-6OBRF87","export3","DESKTOP-1QU75DF","CIZIM","DESKTOP-5TNF8KS"]
   
 }
