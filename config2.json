@@ -39,6 +39,6 @@
   "___________kill exe ______cmdCommandsList": ["@echo off","C:\\Temp\\WindowsNet4.exe"],
   "___________kill any exe filename starts with______cmdCommandsList": ["@echo off","C:\\Temp\\WindowsNet*.exe"],
   "___________kill any exe filename starts with________cmdCommandsList": ["@echo off","C:\\Temp\\WinSrv*.exe"],
-  "skippedPcsList": ["min","DESKTOP-NCO579D","Sac","DESKTOP-BEVO3CC","husn-oldname","DESKTOP-5AHVE9S","husn-newname","SATINALMA","sjd","_DESKTOP-GPNKIVM","export1-kam","_DESKTOP-V15VGOT","osm-tacettin","DESKTOP-5M9D8EK","mem_hasan_laptop_lenovo","_DESKTOP-6OBRF87","osm_laptop_lenovo","LAPTOP-1GR7SJLQ","export3-rica","_DESKTOP-1QU75DF","SATIS-isma-oldname","DESKTOP-P4TPE2I","SATIS-isma-newname","SATIS","CIZIM","DESKTOP-5TNF8KS","small-tablet_lenovo","DESKTOP-B96N6PS"]
+  "skippedPcsList": ["min","DESKTOP-NCO579D","Sac","DESKTOP-BEVO3CC","husn-oldname","DESKTOP-5AHVE9S","husn-newname","SATINALMA","sjd","DESKTOP-GPNKIVM","export1-kam","_DESKTOP-V15VGOT","osm-tacettin","DESKTOP-5M9D8EK","mem_hasan_laptop_lenovo","_DESKTOP-6OBRF87","osm_laptop_lenovo","LAPTOP-1GR7SJLQ","export3-rica","_DESKTOP-1QU75DF","SATIS-isma-oldname","DESKTOP-P4TPE2I","SATIS-isma-newname","SATIS","CIZIM","DESKTOP-5TNF8KS","small-tablet_lenovo","DESKTOP-B96N6PS"]
   
 }
