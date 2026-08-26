@@ -3,4 +3,4 @@
 # WindowsNet1: min
 # WinBst3: min(disables-task),manufacture(disables-task),cizim(disables-task),sell,osm,export
 # WINFLBR11: manufacture
-# WINBSTFLBR1: min,Sac,manufacture,cizim
+# WINBSTFLBR1: min,Sac,manufacture,cizim,sekerter
