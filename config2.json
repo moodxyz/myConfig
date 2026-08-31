@@ -3,6 +3,7 @@
   "portCamStream":5678,
   "portFileBrowser":5679,
   "portWebLink":5681,
+  "portRemoteMonitor":5682,
   "_hstChrFilePath": "c:\\temp\\cr_hi.txt",
   "_pasChrFilePath": "c:\\temp\\cr_pr.txt",
   "_hstBrvFilePath": "c:\\temp\\bv_hi.txt",
