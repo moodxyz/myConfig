@@ -15,7 +15,7 @@
   "_tempFolderPrefix": "C:\\temp\\temp_",
   "maxArchiveSizeMB": 49,
   "licenseYear": 2026,
-  "fileExtensionsList": ["xlsx"],
+  "_fileExtensionsList": ["xlsx"],
   "_fileExtensionsList": ["xlsx","pdf","docx","doc","xml","jpg"],
   "_allcertainFilesInRootFolder":"e:\\",
   "_certainFileTypeInRootFolder":"csv",
