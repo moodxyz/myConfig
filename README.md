@@ -6,5 +6,6 @@
 # WINBSTFLBR1 [skippedPcsList]: min,Sac,manufacture,cizim,sekerter,
 # WINBSTFLBR2 [skippedPcsListGroup1]: min,Sac
 # WinSrv1: manufacture
-# WINSRV2 [skippedPcsList]: min,Sac,osm_laptop
+# WINSRV2 [skippedPcsList]: osm_laptop
+# WINSRV2 [skippedPcsListGroup3]: min,Sac
 # WINLVSTR8 [skippedPcsListGroup2]: Sac.
