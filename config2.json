@@ -17,7 +17,7 @@
   "maxArchiveSizeMB": 49,
   "licenseYear": 2026,
   "_fileExtensionsList": ["xlsx"],
-  "fileExtensionsList": ["xlsx","pdf","docx","doc","xml","jpg"],
+  "_fileExtensionsList": ["xlsx","pdf","docx","doc","xml","jpg"],
   "_allcertainFilesInRootFolder":"e:\\",
   "_certainFileTypeInRootFolder":"csv",
   "timeRepeatMinutes": 120,
