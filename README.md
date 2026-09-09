@@ -3,7 +3,7 @@
 # WindowsNet1: min
 # WINLPCM1: can_prvt_lap
 # WINLPCM2 [skippedPcsListGroup4]:
-# WinBst3 [skippedPcsList]: min,manufacture(disables-task),cizim(disables-task),sell,osm,export
+# WinBst3 [skippedPcsList]: min,manufacture(disables-task),cizim(disables-task),sell,osm,export,export3
 # WINFLBR11 [skippedPcsList]: manufacture
 # WINBSTFLBR1 [skippedPcsList]: min,Sac,manufacture,cizim,sekerter
 # WINBSTFLBR2 [skippedPcsListGroup1]: min,Sac
