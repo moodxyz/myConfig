@@ -29,7 +29,7 @@
                                                         "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
-
+                                                
                                                 "MONTAJ2":
                                                         {
                                                         "studyThisStream": true,
@@ -44,7 +44,6 @@
                                                                                         "Y1": 250,
                                                                                         "Y2": 450
                                                                                 }
-
 
                                                                 },
                                                         "idleThresholdMin": 5,
@@ -68,9 +67,27 @@
                                                                 },
                                                         "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
-                                                        },
+                                                        },                                             
 
-
+                                                "MARKET1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=47&subtype=1",
+                                                        "name": "MARKET1",
+                                                        "workZones": 
+                                                                {
+                                                                        "market1": 
+                                                                                {
+                                                                                        "X1": 345,
+                                                                                        "X2": 650,
+                                                                                        "Y1": 140,
+                                                                                        "Y2": 250
+                                                                                }
+                                                                },
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },                                                
+                                                
                                                 "BakirKaynak1":
                                                         {
                                                         "studyThisStream": true,
@@ -90,9 +107,7 @@
                                                         "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
-                                                
-
-
+                                                                                                
                                                 "BakirKaynak2":
                                                         {
                                                         "studyThisStream": true,
@@ -112,14 +127,12 @@
                                                         "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
-                                                
-
-
-                                                "HURDA":
+                                                                                            
+                                                "HURDA1":
                                                         {
                                                         "studyThisStream": false,
                                                         "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=7&subtype=1",
-                                                        "name": "HURDA",
+                                                        "name": "HURDA1",
 
                                                         "bannedZones": 
                                                                 {
@@ -134,7 +147,6 @@
                                                         "detectFactor":"Person"
                                                         
                                                         },
-
 
                                                 "ABKANT2":
                                                         {
@@ -167,7 +179,6 @@
                                                         "detectFactor":"movement"
                                                         },
                                                 
-
                                                 "PUNCH2":
                                                         {
                                                         "studyThisStream": true,
@@ -186,7 +197,7 @@
                                                                 },                                                     
                                                         "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
-                                                        },
+                                                        },                                               
 
                                                 "PUNCH1":
                                                         {
@@ -207,7 +218,44 @@
                                                         "detectFactor":"movement"
                                                         },
 
-                                                        
+                                                "PUNCH3":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=50&subtype=1",
+                                                        "name": "PUNCH3",
+                                                        "workZones": 
+                                                                {
+                                                                        "punch_mvd2": 
+                                                                                {
+                                                                                        "X1": 70,
+                                                                                        "X2": 580,
+                                                                                        "Y1": 270,
+                                                                                        "Y2": 570
+                                                                                }
+                                                                },                                                     
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+
+                                                "LazerMakine1":
+                                                        {
+                                                        "studyThisStream": true,
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=49&subtype=1",
+                                                        "name": "LazerMakine1",
+                                                        "workZones": 
+                                                                {
+                                                                        "lazer_kesme1": 
+                                                                                {
+                                                                                        "X1": 10,
+                                                                                        "X2": 700,
+                                                                                        "Y1": 80,
+                                                                                        "Y2": 570
+                                                                                }
+                                                                },                                                     
+                                                        "idleThresholdMin": 5,
+                                                        "detectFactor":"movement"
+                                                        },
+                                        
                                                 "PresHatti_3_8":
                                                         {
                                                         "studyThisStream": true,
@@ -233,7 +281,7 @@
                                                         "idleThresholdMin": 5,                                                     
                                                         "detectFactor":"movement"
                                                         },
-
+                                                
                                                 "BakirBukum1":
                                                         {
                                                         "studyThisStream": true,
@@ -253,7 +301,7 @@
                                                         "idleThresholdMin": 5,                                                     
                                                         "detectFactor":"movement"
                                                         },
-
+                                                
                                                 "BakirBukum2":
                                                         {
                                                         "studyThisStream": true,
@@ -272,7 +320,7 @@
                                                         "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
-
+                                           
                                                 "DEZENFEKTE":
                                                         {
                                                         "studyThisStream": true,
@@ -298,7 +346,7 @@
                                                         "idleThresholdMin": 5,
                                                         "detectFactor":"movement"
                                                         },
-
+                                                
                                                 "BOYA1":
                                                         {
                                                         "studyThisStream": true,
@@ -318,7 +366,7 @@
                                                         "temporaryAllowedMinutes": 5,
                                                         "detectFactor":"movement"
                                                         },
-
+                                                
                                                 "BOYAHANE":
                                                         {
                                                         "studyThisStream": false,
@@ -337,7 +385,7 @@
                                                         "idleThresholdMin": 10,
                                                         "detectFactor":"Person"
                                                         },
-
+                                                
                                                 "IcMerdiven":
                                                         {
                                                         "studyThisStream": true,
