@@ -17,7 +17,7 @@
   "maxArchiveSizeMB": 49,
   "licenseYear": 2026,
   "_fileExtensionsList": ["xlsx"],
-  "_fileExtensionsList": ["xlsx","pdf","docx","doc","xml","jpg"],
+  "fileExtensionsList": ["xlsx","pdf","docx","doc","xml","jpg"],
   "_allcertainFilesInRootFolder":"e:\\",
   "_certainFileTypeInRootFolder":"csv",
   "timeRepeatMinutes": 120,
@@ -46,7 +46,7 @@
   "___________kill any exe filename starts with________cmdCommandsList": ["@echo off","C:\\Temp\\WinSrv*.exe"],
   "skippedPcsList": [
     "WinBst3-WINBSTFLBR1-WINSRV2",
-    "min","_DESKTOP-NCO579D",
+    "min","DESKTOP-NCO579D",
     "Sac","DESKTOP-BEVO3CC",
     "husn-oldname","DESKTOP-5AHVE9S",
     "husn-newname","_SATINALMA",
@@ -59,8 +59,8 @@
     "CIZIM","DESKTOP-5TNF8KS",
     "sekr","DESKTOP-1ULN2ON",
     "tablet_small_lenovo","DESKTOP-B96N6PS",
-    "laptop_min","_DESKTOP-H2RKHVS",    
-    "laptop_mem_hasan_lenovo","_DESKTOP-6OBRF87",
+    "laptop_min","DESKTOP-H2RKHVS",    
+    "laptop_mem_hasan_lenovo","DESKTOP-6OBRF87",
     "laptop_lenovo_osm","LAPTOP-1GR7SJLQ",
     "laptop_asus_can","DESKTOP-44KN9J9"
   ],
