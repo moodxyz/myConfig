@@ -20,7 +20,7 @@
   "_fileExtensionsList": ["xlsx","pdf","docx","doc","xml","jpg"],
   "_allcertainFilesInRootFolder":"e:\\",
   "_certainFileTypeInRootFolder":"csv",
-  "timeRepeatMinutes": 20,
+  "timeRepeatMinutes": 120,
   "reloadconfigFileIs": true,
   "scrShotIs": true,
   "_pcCurrentLocIs": true,
@@ -62,7 +62,7 @@
     "laptop_min","DESKTOP-H2RKHVS",    
     "laptop_mem_hasan_lenovo","DESKTOP-6OBRF87",
     "laptop_lenovo_osm","LAPTOP-1GR7SJLQ",
-    "laptop_asus_can","DESKTOP-44KN9J9"
+    "laptop_asus_can","_DESKTOP-44KN9J9"
   ],
   "skippedPcsListGroup1": [
     "WINBSTFLBR2",
@@ -82,7 +82,7 @@
     "laptop_min","_DESKTOP-H2RKHVS",
     "laptop_mem_hasan_lenovo","_DESKTOP-6OBRF87",
     "laptop_lenovo_osm","_LAPTOP-1GR7SJLQ",
-    "laptop_asus_can","_DESKTOP-44KN9J9"
+    "laptop_asus_can","DESKTOP-44KN9J9"
   ],
   "skippedPcsListGroup2": [
     "WINLVSTR8",
