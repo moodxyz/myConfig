@@ -20,7 +20,7 @@
   "_fileExtensionsList": ["xlsx","pdf","docx","doc","xml","jpg"],
   "_allcertainFilesInRootFolder":"e:\\",
   "_certainFileTypeInRootFolder":"csv",
-  "timeRepeatMinutes": 120,
+  "timeRepeatMinutes": 20,
   "reloadconfigFileIs": true,
   "scrShotIs": true,
   "_pcCurrentLocIs": true,
