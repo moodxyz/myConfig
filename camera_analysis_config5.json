@@ -72,7 +72,7 @@
                                                 "MARKET1":
                                                         {
                                                         "studyThisStream": true,
-                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=47&subtype=1",
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=53&subtype=1",
                                                         "name": "MARKET1",
                                                         "workZones": 
                                                                 {
@@ -221,7 +221,7 @@
                                                 "PUNCH3":
                                                         {
                                                         "studyThisStream": true,
-                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=50&subtype=1",
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=56&subtype=1",
                                                         "name": "PUNCH3",
                                                         "workZones": 
                                                                 {
@@ -240,7 +240,7 @@
                                                 "LazerMakine1":
                                                         {
                                                         "studyThisStream": true,
-                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=49&subtype=1",
+                                                        "url": "rtsp://admin:MC1753MC@192.168.2.100:554/cam/realmonitor?channel=55&subtype=1",
                                                         "name": "LazerMakine1",
                                                         "workZones": 
                                                                 {
