@@ -6,7 +6,7 @@
 # WinBst3 [skippedPcsList]: min,manufacture(disables-task),cizim(disables-task),sell,osm,export,export3
 # WINFLBR11 [skippedPcsList]: manufacture
 # WINBSTFLBR1 [skippedPcsList]: min,Sac,manufacture,cizim,sekerter
-# WINBSTFLBR2 [skippedPcsListGroup1]: min,Sac
+# WINBSTFLBR2 [skippedPcsListGroup1]: min,Sac,export3,can_prvt_lap
 # WinSrv1: manufacture
 # WINSRV2 [skippedPcsList]: osm_laptop
 # WINSRV3 [skippedPcsListGroup3]: min,Sac
