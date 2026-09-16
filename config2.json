@@ -52,7 +52,7 @@
     "sjd","DESKTOP-GPNKIVM",
     "export1-kam","_DESKTOP-V15VGOT",
     "export3-rica","DESKTOP-1QU75DF",
-    "osm-tacettin","DESKTOP-5M9D8EK",
+    "SATIS-osm-tacettin","DESKTOP-5M9D8EK",
     "SATIS-koray-oldname","DESKTOP-P4TPE2I",
     "SATIS-koray-newname","SATIS",
     "CIZIM","_DESKTOP-5TNF8KS",
@@ -70,7 +70,7 @@
     "husn-newname","_SATINALMA",
     "export1-kam","DESKTOP-V15VGOT",
     "export3-rica","DESKTOP-1QU75DF",
-    "osm-tacettin","DESKTOP-5M9D8EK",
+    "SATIS-osm-tacettin","DESKTOP-5M9D8EK",
     "SATIS-koray-newname","SATIS",    
     "laptop_mem_hasan_lenovo","DESKTOP-6OBRF87",
     "laptop_lenovo_osm","LAPTOP-1GR7SJLQ",
@@ -86,7 +86,6 @@
   ],
   "skippedPcsListGroup2": [
     "WINLVSTR8",
-    "min","DESKTOP-NCO579D",
     "Sac","_DESKTOP-BEVO3CC"
   ],
   "skippedPcsListGroup3": [
