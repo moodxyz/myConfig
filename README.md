@@ -9,6 +9,6 @@
 # WINBSTFLBR2 [skippedPcsListGroup1]: min,Sac,export,export3,can_prvt_lap
 # WinSrv1: manufacture
 # WINSRV2 [skippedPcsList]: osm_laptop
-# WINSRV3 [skippedPcsListGroup3]: min,Sac,export3,can_prvt_lap
+# WINSRV3 [skippedPcsListGroup3]: min,Sac,export,can_prvt_lap
 # WINLVSTR8 [skippedPcsListGroup2]: Sac
 
