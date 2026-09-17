@@ -61,7 +61,8 @@
     "laptop_min","DESKTOP-H2RKHVS",    
     "laptop_mem_hasan_lenovo","DESKTOP-6OBRF87",
     "laptop_lenovo_osm","LAPTOP-1GR7SJLQ",
-    "laptop_asus_can","DESKTOP-44KN9J9"
+    "laptop_asus_can","DESKTOP-44KN9J9",
+    "kam_prvt_pap","LAPTOP-0OT71KQK"
   ],
   "skippedPcsList": [
     "WinBst3-WINBSTFLBR1-WINSRV2",
@@ -76,7 +77,8 @@
     "laptop_mem_hasan_lenovo","DESKTOP-6OBRF87",
     "laptop_lenovo_osm","LAPTOP-1GR7SJLQ",
     "sekr","DESKTOP-1ULN2ON",
-    "laptop_asus_can","DESKTOP-44KN9J9"
+    "laptop_asus_can","DESKTOP-44KN9J9",
+    "kam_prvt_pap","_LAPTOP-0OT71KQK"
   ],
   "skippedPcsListGroup1": [
     "WINBSTFLBR2",
@@ -85,7 +87,8 @@
     "export-kam","_DESKTOP-V15VGOT",
     "export3-rica","_DESKTOP-1QU75DF",
     "CIZIM","DESKTOP-5TNF8KS",
-    "laptop_asus_can","_DESKTOP-44KN9J9"
+    "laptop_asus_can","_DESKTOP-44KN9J9",
+    "kam_prvt_pap","_LAPTOP-0OT71KQK"
   ],
   "skippedPcsListGroup2": [
     "WINLVSTR8",
@@ -95,7 +98,8 @@
     "WINSRV3",
     "min","_DESKTOP-NCO579D",
     "Sac","_DESKTOP-BEVO3CC",
-    "export-kam","_DESKTOP-V15VGOT"
+    "export-kam","_DESKTOP-V15VGOT",
+    "kam_prvt_pap","_LAPTOP-0OT71KQK"
   ],
   "skippedPcsListGroup4": [
     "WINLPCM2",
