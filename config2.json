@@ -57,6 +57,8 @@
     "SATIS-koray-newname","SATIS",
     "CIZIM","DESKTOP-5TNF8KS",
     "sekr","DESKTOP-1ULN2ON",
+    "eda","SATIS4",
+    "emr","DESKTOP-9NRK844",
     "tablet_small_lenovo","DESKTOP-B96N6PS",
     "laptop_min","DESKTOP-H2RKHVS",    
     "laptop_mem_hasan_lenovo","DESKTOP-6OBRF87",
@@ -87,8 +89,11 @@
     "Sac","DESKTOP-BEVO3CC",
     "export-kam","_DESKTOP-V15VGOT",
     "export3-rica","_DESKTOP-1QU75DF",
+    "eda","_SATIS4",
+    "emr","_DESKTOP-9NRK844",
     "laptop_asus_can","_DESKTOP-44KN9J9",
     "kam_prvt_pap","_LAPTOP-0OT71KQK"
+
   ],
   "skippedPcsListGroup2": [
     "WINLVSTR8",
